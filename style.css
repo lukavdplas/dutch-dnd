@@ -1,0 +1,43 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+
+div.categories {
+  background-color: #eee;
+  margin-bottom: 1em;
+}
+
+li {
+  color: #111;
+  list-style-type: none;
+}
+
+li.subword {
+  margin-left: 1em;
+}
+
+eng {
+  font-weight: bold;
+  margin-right: 1em;
+}
+
+nav span {
+  background-color: #ddd;
+  margin: 2px;
+}
+
+nav input {
+  display: none;
+}
+
+nav input:checked ~ label {
+  background-color: #bbb;
+}
