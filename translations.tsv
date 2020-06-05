@@ -148,8 +148,8 @@ ignan	primordial	vuurspraak		languages	talen
 terran	primordial	aardspraak		languages	talen		
 sylvan		silvaans		languages	talen		
 undercommon		diepgewoon	ondergewoon	languages	talen		
-the Underdark		het Donkerdiep		other	overig		
-the Weave		het Weefsel		other	overig		
+the underdark		het Donkerdiep		other	overig		
+the weave		het Weefsel		other	overig		
 padded armor		wambuis		armor	harnassen		
 leather armor		leren harnas		armor	harnassen		
 studded leather armor		beslagen leren harnas		armor	harnassen		
@@ -348,7 +348,7 @@ poisoner's kit		gifmengersgerei		tools	gereedschap
 thieves' tools		dievengereedschap		tools	gereedschap		
 land vehicles		voertuigen		tools	gereedschap		
 water vehicles		vaartuigen		tools	gereedschap		
-camel		kameel		mounts and vehicles	rijdieren, voertuigen en vaartuigen		
+camel		kameel		mounts and vehicles	rijdieren en voertuigen		
 donkey		ezel		mounts and vehicles	rijdieren en voertuigen		
 mule		muildier / muilezel		mounts and vehicles	rijdieren en voertuigen		
 elephant		olifant		mounts and vehicles	rijdieren en voertuigen		
@@ -378,366 +378,366 @@ longship		langschip		mounts and vehicles	rijdieren en voertuigen
 rowboat		roeiboot		mounts and vehicles	rijdieren en voertuigen		
 sailing ship		zeilschip		mounts and vehicles	rijdieren en voertuigen		
 warship		oorglogsschip		mounts and vehicles	rijdieren en voertuigen		
-Acid splash		Zuurspat		spells	spreuken		
-Aid		Hulp		spells	spreuken		
-Alarm		Alarm		spells	spreuken		
-Alter Self		Zelf Veranderen		spells	spreuken		
-Animal Friendship		Dierenvriend		spells	spreuken		
-Animal Messenger		Dierenboodschapper		spells	spreuken		
-Animal Shapes		Dierenvormen		spells	spreuken		
-Animate Dead		Doden Ontwaken		spells	spreuken		
-Animate Objects		Voorwerpen Ontwaken		spells	spreuken		
-Antilife Shell		Levensstoppende Schulp		spells	spreuken		
-Antimagic Field		Antimagisch Veld		spells	spreuken		
-Antipathy/Sympathy		Antipathie/Sympathie		spells	spreuken		
-Arcane Eye		Esoterisch Oog		spells	spreuken		
-Arcane Gate		Esoterische Poort		spells	spreuken		
-Arcane Lock		Magisch Slot		spells	spreuken		
-Armor of Agathys		Harnas van Agathys		spells	spreuken		
-Arms of Hadar		Armen van Hadaar		spells	spreuken		
-Astral Projection		Astrale Projectie		spells	spreuken		
-Augury		Wichelarij		spells	spreuken		
-Aura of Life		Aura van Leven		spells	spreuken		
-Aura of Purity		Aura van Zuiverheid		spells	spreuken		
-Aura of Vitality		Aura van Vitaliteit		spells	spreuken		
-Awaken		Ontwaken		spells	spreuken		
-Bane		Vloek		spells	spreuken		
-Banishing Smite		Verbannende Slag		spells	spreuken		
-Banishment		Verbanning		spells	spreuken		
-Barkskin		Huid van Bast		spells	spreuken		
-Beacon of Hope		Baken van Hoop		spells	spreuken		
-Beast Sense		Beestenzintuig		spells	spreuken		
-Bestow Curse		Vloek Plaatsen		spells	spreuken		
-Bigby’s Hand		Hand van Biggebij	Hand van Reuzema	spells	spreuken		
-Blade Barrier		Klingbarrière		spells	spreuken		
-Blade Ward		Klinghoede	Slagenhoede	spells	spreuken		
-Bless		Zegenen		spells	spreuken		
-Blight		Plaag		spells	spreuken		Blight is een verzamelterm voor verschillende plantenziekten. Ik kon echter geen goed Nederlands equivalent vinden
-Blinding Smite		Verblindende Slag		spells	spreuken		
-Blindness/Deafness		Blindheid/Doofheid		spells	spreuken		
-Blink		Flikkering		spells	spreuken		
-Blur		Vervagen		spells	spreuken		
-Branding Smite		Merkende Slag		spells	spreuken		
-Burning Hands		Brandende Handen		spells	spreuken		
-Call Lightning		Bliksem Aanroepen		spells	spreuken		
-Calm Emotions		Emoties Kalmeren		spells	spreuken		
-Chain Lightning		Kettingbliksem		spells	spreuken		
-Charm Person		Persoon Bezweren		spells	spreuken		
-Chill Touch		Koude Aanraking		spells	spreuken		
-Chromatic Orb		Chromatische Bol		spells	spreuken		
-Circle of Death		Cirkel van Dood		spells	spreuken		
-Circle of Power		Cirkel van Macht		spells	spreuken		
-Clairvoyance		Helderzien		spells	spreuken		
-Clone		Kloon		spells	spreuken		
-Cloud of Daggers		Zwerm van Dolken		spells	spreuken		
-Cloudkill		Wolkenmoord	Moordwolk	spells	spreuken		
-Color Spray		Kleurverstuiving		spells	spreuken		
-Command		Bevel		spells	spreuken		
-Commune		Communie		spells	spreuken		
-Commune with Nature		Spreken met Natuur		spells	spreuken		
-Compelled Duel		Gedwongen Duel		spells	spreuken		
-Comprehend Languages		Talen Begrijpen		spells	spreuken		
-Compulsion		Dwang		spells	spreuken		
-Cone of Cold		Kegel van Kou		spells	spreuken		
-Confusion		Verwarring		spells	spreuken		
-Conjure Animals		Dieren Oproepen		spells	spreuken		
-Conjure Barrage		Spervuur Oproepen		spells	spreuken		
-Conjure Celestial		Hemelse Oproepen		spells	spreuken		
-Conjure Elemental		Elementaal Oproepen		spells	spreuken		
-Conjure Fey		Fee Oproepen		spells	spreuken		
-Conjure Minor Elementals		Mindere Elementalen Oproepen		spells	spreuken		
-Conjure Volley		Salvo Oproepen		spells	spreuken		
-Conjure Woodland Beings		Wezens van het Woud Oproepen		spells	spreuken		
-Contact Other Planes		Tot Andere Sferen Spreken		spells	spreuken		
-Contagion		Besmetting		spells	spreuken		
-Contingency		Noodgeval		spells	spreuken		
-Continual Flame		Eeuwige Vlam		spells	spreuken		
-Control Water		Water Besturen		spells	spreuken		
-Control Weather		Weer Besturen		spells	spreuken		
-Cordon of Arrows		Kordon van Pijlen		spells	spreuken		
-Counterspell		Tegenspreuk		spells	spreuken		
-Create Food and Water		Voedsel en Water Scheppen		spells	spreuken		
-Create of Destroy Water		Water Scheppen of Vernietigen		spells	spreuken		
-Create Undead		Ondoden Creëren		spells	spreuken		
-Creation		Schepping		spells	spreuken		
-Crown of Madness		Kroon van Waanzin		spells	spreuken		
-Crusader’s Mantle		Mantel van de Kruisvaarder		spells	spreuken		
-Cure Wounds		Wonden Genezen		spells	spreuken		
-Dancing Lights		Dansende Lichtjes		spells	spreuken		
-Darkness		Duisternis		spells	spreuken		
-Darkvision		Duisterzicht		spells	spreuken		
-Daylight		Daglicht		spells	spreuken		
-Death Ward		Doodshoede		spells	spreuken		
-Delayed Blast Fireball		Vuurbal met Vertraagde Ontploffing		spells	spreuken		
-Demiplane		Demisfeer		spells	spreuken		
-Destructive Wave		Verwoestende Golf		spells	spreuken		
-Detect Evil and Good		Kwaad en Goed Ontwaren		spells	spreuken		
-Detect Magic		Magie Ontwaren		spells	spreuken		
-Detect Poison and Disease		Vergif and Ziekte Ontwaren		spells	spreuken		
-Detect Thoughts		Gedachten Ontwaren		spells	spreuken		
-Dimension Door		Dimensiedeur		spells	spreuken		
-Disguise Self		Zelf Vermommen		spells	spreuken		
-Disintegrate		Ontbinding / Desintegratie		spells	spreuken		
-Dispel Evil and Good		Kwaad en Goed Verdrijven		spells	spreuken		
-Dispel Magic		Magie Verdrijven		spells	spreuken		
-Dissonant Whispers		Wangefluister		spells	spreuken		
-Divination		Waarzeggerij		spells	spreuken		
-Divine Favor		Goddelijk Voorrecht		spells	spreuken		
-Divine Word		Goddelijk Woord		spells	spreuken		
-Dominate Beast		Beest Beheersen		spells	spreuken		
-Dominate Monster		Monster Beheersen		spells	spreuken		
-Dominate Person		Persoon Beheersen		spells	spreuken		
-Drawmij’s Instant Summons		Onmiddellijke Sommering		spells	spreuken		
-Dream		Dromen		spells	spreuken		
-Druidcraft		Druïdewerk		spells	spreuken		
-Earthquake		Aardbeving		spells	spreuken		
-Eldritch Blast		Esoterische Vlaag		spells	spreuken		
-Elemental Weapon		Elementaal Wapen		spells	spreuken		
-Enhance Ability		Vaardigheid Verbeteren		spells	spreuken		
-Enlarge/Reduce		Vergroten/Verkleinen		spells	spreuken		
-Ensnaring Strike		Verstrikkende Slag		spells	spreuken		
-Entangle		Verstrengelen		spells	spreuken		
-Enthrall		Betoveren	Betoverende Blik	spells	spreuken		
-Etherealness		Etherische Staat		spells	spreuken		
-Evard’s Black Tentacles		Evaards Zwarte Tentakels		spells	spreuken		
-Expeditious Retreat		Spoedige Terugtocht		spells	spreuken		
-Eyebite		Oogbeet		spells	spreuken		
-Fabricate		Vervaardigen		spells	spreuken		
-Faerie Fire		Feeënvuur		spells	spreuken		
-False Life		Vals Leven		spells	spreuken		
-Fear		Angst		spells	spreuken		
-Feather Fall		Verenval		spells	spreuken		
-Feeblemind		Weeëgeest		spells	spreuken		
-Feign Death		Dood Veinzen		spells	spreuken		
-Find Familiar		Dubbel Vinden		spells	spreuken		De familiar en de dubbel zijn allebei deel van de folklore over heksen in de respectievelijke cultuur, al gaat het om andere concepten. De dubbel is geen veredeld huisdier, maar een dierenvorm die de heks aanneemt, waarbij haar mensenlichaam achterblijft. Dat past toevallig goed genoeg bij de find familiar spreuk
-Find Steed		Ros Vinden		spells	spreuken		
-Find the Path		Het Pad Vinden		spells	spreuken		
-Find Traps		Vallen Vinden		spells	spreuken		
-Finger of Death		Vinger van Dood		spells	spreuken		
-Fireball		Vuurbal		spells	spreuken		
-Firebolt		Vuurschicht		spells	spreuken		
-Fire Storm		Vuurstorm		spells	spreuken		
-Flame Blade		Vlammenkling		spells	spreuken		
-Flame Strike		Vlammenslag		spells	spreuken		
-Flaming Sphere		Vlammende Bol		spells	spreuken		
-Flesh to Stone		Vlees tot Steen		spells	spreuken		
-Fly		Vliegen		spells	spreuken		
-Fog Cloud		Mistwolk		spells	spreuken		
-Forbiddance		Verbod		spells	spreuken		
-Force Cage		Kooi van Kracht		spells	spreuken		
-Foresight		Vooruitzicht		spells	spreuken		
-Freedom of Movement		Vrijheid van Beweging		spells	spreuken		
-Friends		Vrienden		spells	spreuken		
-Gaseous Form		Gasvorm		spells	spreuken		
-Gate		Poort		spells	spreuken		
-Geas		Geis	Banvloek, Dwangvloek	spells	spreuken		
-Gentle Repose		Zachte Rust		spells	spreuken		
-Giant Insect		Reuzeninsect		spells	spreuken		
-Glibness		Gladde Tong		spells	spreuken		
-Globe of Invulnerability		Bol van Onkwetsbaarheid		spells	spreuken		
-Glyph of Warding		Glief van Afwering		spells	spreuken		
-Goodberry		Goedebes		spells	spreuken		
-Grease		Smeer		spells	spreuken		
-Greater Invisibility		Meerdere Onzichtbaarheid		spells	spreuken		
-Greater Restoration		Meerdere Herstelling		spells	spreuken		
-Guardian of Faith		Geloofsbewaarder		spells	spreuken		
-Guards and Wards		Bewakers en Bewaarders		spells	spreuken		
-Guidance		Geleide		spells	spreuken		
-Guiding Bolt		Geleidende Schicht		spells	spreuken		
-Gust of Wind		Windvlaag		spells	spreuken		
-Hail of Thorns		Hagel van Doornen		spells	spreuken		
-Hallow		Wijden		spells	spreuken		
-Hallucinatory Terrain		Bedrieglijk Terrein		spells	spreuken		
-Harm		Krenken		spells	spreuken		
-Haste		Haast		spells	spreuken		
-Heal		Helen		spells	spreuken		
-Healing Word		Helend Woord		spells	spreuken		
-Heat Metal		Metaal Verhitten		spells	spreuken		
-Hellish Rebuke		Helse Vermaning		spells	spreuken		
-Heroes’ Feast		Heldenmaal		spells	spreuken		
-Heroism		Heldenmoed		spells	spreuken		
-Hex		Beheksing		spells	spreuken		
-Hold Monster		Monster Verankeren		spells	spreuken		
-Hold Person		Persoon Verankeren		spells	spreuken		
-Holy Aura		Heilig Aura		spells	spreuken		
-Hunger of Hadar		Honger van Hadaar		spells	spreuken		
-Hunter’s Mark		Jagersdoelwit		spells	spreuken		
-Hypnotic Pattern		Hypnotisch Patroon		spells	spreuken		
-Ice Storm		IJsstorm		spells	spreuken		
-Identify		Identiteit		spells	spreuken		
-Illusory Script		Illusiegeschrift		spells	spreuken		
-Imprisonment		Gevangenis		spells	spreuken		
-Incendiary Cloud		Ontvlammende Wolk		spells	spreuken		
-Inflict Wounds		Wonden Toebrengen		spells	spreuken		
-Insect Plague		Insectenplaag		spells	spreuken		
-Invisibility		Onzichtbaarheid		spells	spreuken		
-Jump		Sprong		spells	spreuken		
-Knock		Kloppen		spells	spreuken		
-Legend Lore		Overlevering van Legenden		spells	spreuken		
-Leomund’s Secret Chest		Leomonds Geheime Kist		spells	spreuken		
-Leomund’s Tiny Hut		Leomonds Kleine Hut		spells	spreuken		
-Lesser Restoration		Mindere Herstelling		spells	spreuken		
-Levitate		Zweven		spells	spreuken		
-Light		Licht		spells	spreuken		
-Lightning Arrow		Bliksempijl		spells	spreuken		
-Lightning Bolt		Bliksemschicht		spells	spreuken		
-Locate Animals Or Plants		Dieren of Planten Lokaliseren		spells	spreuken		
-Locate Create		Wezen Lokaliseren		spells	spreuken		
-Locate Object		Object Lokaliseren		spells	spreuken		
-Longstrider		Langepasser		spells	spreuken		
-Mage Armor		Magisch Harnas		spells	spreuken		
-Mage Hand		Magische Hand		spells	spreuken		
-Magic Circle		Magische Cirkel		spells	spreuken		
-Magic Jar		Magische Pot		spells	spreuken		
-Magic Missile		Magische Raket		spells	spreuken		
-Magic Mouth		Magische Mond		spells	spreuken		
-Magic Weapon		Magisch Wapen		spells	spreuken		
-Major Image		Groter Beeld		spells	spreuken		
-Mass Cure Wounds		Massawondenheling		spells	spreuken		
-Mass Heal		Massaheling		spells	spreuken		
-Mass Healing Word		Massa Helend Woord		spells	spreuken		
-Mass Suggestion		Massasuggestie		spells	spreuken		
-Maze		Doolhof		spells	spreuken		
-Meld Into Stone		Opgaan in Steen		spells	spreuken		
-Melf’s Acid Arrow		Melfs Zure Pijl		spells	spreuken		
-Mending		Reparatie		spells	spreuken		
-Message		Bericht		spells	spreuken		
-Meteor Swarm		Meteorenzwerm		spells	spreuken		
-Mind Blank		Ledige Geest		spells	spreuken		
-Minor Illusion		Mindere Illusie		spells	spreuken		
-Mirage Arcane		Esoterische Luchtspiegeling		spells	spreuken		
-Mirror Image		Spiegelbeeld		spells	spreuken		
-Mislead		Misleiden		spells	spreuken		
-Misty Step		Nevelstap		spells	spreuken		
-Modify Memory		Geheugen Aanpassen		spells	spreuken		
-Moonbeam		Manestraal		spells	spreuken		
-Mordenkainen’s Faithful Hound		Mordenkainens Trouwe Hond		spells	spreuken		
-Mordenkainen’s Magnificent Mansion		Mordenkainens Voortreffelijke Villa		spells	spreuken		
-Mordenkainen’s Private Sanctum		Mordenkainens Persoonlijke Schuilplaats		spells	spreuken		
-Mordenkainen’s Sword		Mordenkainens Zwaard		spells	spreuken		
-Move Earth		Aarde Bewegen		spells	spreuken		
-Nondetection		Onopgespoordheid		spells	spreuken		
-Nystul’s Magic Aura		Nijstuuls Magische Aura		spells	spreuken		
-Otiluke’s Freezing Sphere		Otilukes Bevriezende Bol		spells	spreuken		
-Otiluke’s Resilient Sphere		Otilukes Stevige Bol		spells	spreuken		
-Otto’s Irresistible Dance		Otto’s Onweerstaanbare Dans		spells	spreuken		
-Pass Without Trace		Spoorloze Pas		spells	spreuken		
-Passwall		Muurvoorbij		spells	spreuken		
-Phantasmal Force		Waankracht		spells	spreuken		
-Phantasmal Killer		Waanverschrikking		spells	spreuken		
-Phantom Steed		Spookros		spells	spreuken		
-Planar Ally		Sferische Medestander		spells	spreuken		
-Planar Binding		Sferische Binding		spells	spreuken		
-Plane Shift		Sferensprong		spells	spreuken		
-Plant Growth		Plantengroei		spells	spreuken		
-Poison Spray		Gifsproei		spells	spreuken		
-Polymorph		Polymorf		spells	spreuken		
-Power Word Heal		Krachtwoord van Heling		spells	spreuken		
-Power Word Kill		Krachtwoord van Vonnis		spells	spreuken		
-Power Word Stun		Krachtwoord van Bedwelming		spells	spreuken		
-Prayer of Healing		Gebed van Heling		spells	spreuken		
-Prestidigitation		Goochelarij		spells	spreuken		
-Prismatic Spray		Prismastralen		spells	spreuken		
-Prismatic Wall		Prismatische Muur		spells	spreuken		
-Produce Flame		Vlam Maken		spells	spreuken		
-Programmed Illusion		Geprogrammeerde Illusie		spells	spreuken		
-Project Image		Beeld Projecteren		spells	spreuken		
-Protection from Energy		Bescherming tegen Energie		spells	spreuken		
-Protection from Evil and Good		Bescherming tegen Kwaad en Goed		spells	spreuken		
-Protection from Poison		Bescherming tegen Gif		spells	spreuken		
-Purify Food and Drink		Eten en Drinken Zuiveren		spells	spreuken		
-Raise Dead		Doden Terugbrengen		spells	spreuken		
-Rary’s Telephathic Bond		Raries Telepathische Band		spells	spreuken		
-Ray of Enfeeblement		Straal van Verzwakking		spells	spreuken		
-Ray of Frost		Straal van Vorst		spells	spreuken		
-Ray of Sickness		Straal van Ziekte		spells	spreuken		
-Regenerate		Regenereren		spells	spreuken		
-Reincarnate		Reïncarnatie		spells	spreuken		
-Remove Curse		Vloek Verwijderen		spells	spreuken		
-Resistance		Bestandheid		spells	spreuken		
-Resurrection		Herrijzing		spells	spreuken		
-Reverse Gravity		Zwaartekracht Omslaan		spells	spreuken		
-Revivify		Reanimeren		spells	spreuken		
-Rope Trick		Touwkunstje		spells	spreuken		
-Sacred Flame		Heilige Vlam		spells	spreuken		
-Sanctuary		Toevluchtsoord		spells	spreuken		
-Scorching Ray		Schroeiende Straal		spells	spreuken		
-Scrying		Kristalkijken		spells	spreuken		
-Searing Smite		Schroeiende Slag		spells	spreuken		
-See Invisibility		Onzichtbaarheid Zien		spells	spreuken		
-Seeming		Schijnen		spells	spreuken		
-Sending		Zending		spells	spreuken		
-Sequester		Afzondering		spells	spreuken		
-Shapechange		Gedaantewisseling		spells	spreuken		
-Shatter		Verbrijzelen		spells	spreuken		
-Shield		Schild		spells	spreuken		
-Shield of Faith		Schild van Geloof		spells	spreuken		
-Shillelagh		Shillelagh		spells	spreuken		
-Shocking Grasp		Schokkende Greep		spells	spreuken		
-Silence		Stilte		spells	spreuken		
-Silent Image		Geluidloos Beeld		spells	spreuken		
-Simulacrum		Simulacrum		spells	spreuken		
-Sleep		Slaap		spells	spreuken		
-Sleet Storm		Sneeuwstorm		spells	spreuken		
-Slow		Vertragen		spells	spreuken		
-Spare the Dying		De Stervenden Sparen		spells	spreuken		
-Speak with Animals		Dierenspraak		spells	spreuken		
-Speak with Dead		Dodenspraak		spells	spreuken		
-Speak with Plants		Plantenspraak		spells	spreuken		
-Spider Climb		Spinnengeklim		spells	spreuken		
-Spike Growth		Stekelgroei		spells	spreuken		
-Spirit Guardian		Beschermgeest		spells	spreuken		
-Spiritual Weapon		Onstoffelijk Wapen	Spiritueel Wapen	spells	spreuken		
-Staggering Smite		Verbluffende Slag		spells	spreuken		
-Stinking Cloud		Stinkende Wolk		spells	spreuken		
-Stone Shape		Steen Omvormen		spells	spreuken		
-Stoneskin		Huid van Steen		spells	spreuken		
-Storm of Vengeance		Storm van Wraak		spells	spreuken		
-Suggestion		Suggestie		spells	spreuken		
-Sunbeam		Zonnestraal		spells	spreuken		
-Sunburst		Zonuitbarsting		spells	spreuken		
-Swift Quiver		Vlotte Koker		spells	spreuken		
-Symbol		Symbool		spells	spreuken		
-Tasha’s Hideous Laughter		Tasha’s Afgrijselijke Lach		spells	spreuken		
-Telekinesis		Telekinese		spells	spreuken		
-Telepathy		Telepathie		spells	spreuken		
-Teleport		Teleportatie		spells	spreuken		
-Teleportation Circle		Teleportatiecirkel		spells	spreuken		
-Tenser’s Floating Disk		Tensers Zwevende Schijf		spells	spreuken		
-Thaumaturgy		Thaumaturgie		spells	spreuken		
-Thorn Whip		Doornenzweep		spells	spreuken		
-Thunderous Smite		Donderslag		spells	spreuken		
-Thunderwave		Dondergolf		spells	spreuken		
-Time Stop		Tijdsstop		spells	spreuken		
-Tongues		Talen		spells	spreuken		
-Transport Via Plants		Vervoer Door Planten		spells	spreuken		
-Tree Stride		Bomenstap		spells	spreuken		
-True Polymorph		Ware Polymorph		spells	spreuken		
-True Resurrection		Ware Herrijzing		spells	spreuken		
-True Seeing		Waar Zien		spells	spreuken		
-True Strike		Ware Slag		spells	spreuken		
-Tsunami		Tsunami		spells	spreuken		
-Unseen Servant		Ongeziene Dienaar		spells	spreuken		
-Vampiric Touch		Vampirische Aanraking		spells	spreuken		
-Vicious Mockery		Wrede Spotternij		spells	spreuken		
-Wall of Fire		Muur van Vuur		spells	spreuken		
-Wall of Force		Muur van Kracht		spells	spreuken		
-Wall of Ice		Muur van IJs		spells	spreuken		
-Wall of Stone		Muur van Steen		spells	spreuken		
-Wall of Thorns		Muur van Doornen		spells	spreuken		
-Warding Bond		Beschermende Band		spells	spreuken		
-Water Breathing		Wateradem		spells	spreuken		
-Water Walk		Waterloop		spells	spreuken		
-Web		Web		spells	spreuken		
-Weird		Noodlot		spells	spreuken		Ik neem aan dat weird hier verwijst naar het Angelsaksische begrip wyrd.
-Wind Walk		Windloop		spells	spreuken		
-Wind Wall		Windmuur		spells	spreuken		
-Wish		Wens		spells	spreuken		
-Witch Bolt		Heksenschicht		spells	spreuken		
-Word of Recall		Woord van Terugroeping		spells	spreuken		
-Wrathful Smite		Toornende Slag		spells	spreuken		
-Zone of Truth		Zone van Waarheid		spells	spreuken		
-Forgotten Realms		Vergeten Rijken		gods	goden		
+acid splash		zuuzuurspat		spells	spreuken		
+aid		hulp		spells	spreuken		
+alarm		alarm		spells	spreuken		
+alter self		zelf veranderen		spells	spreuken		
+animal friendship		dierenvriend		spells	spreuken		
+animal messenger		dierenboodschapper		spells	spreuken		
+animal shapes		dierenvormen		spells	spreuken		
+animate dead		doden ontwaken		spells	spreuken		
+animate objects		voorwerpen ontwaken		spells	spreuken		
+antilife shell		levensstoppende schulp		spells	spreuken		
+antimagic field		antimagisch veld		spells	spreuken		
+antipathy/sympathy		antipathie/sympathie		spells	spreuken		
+arcane eye		esoterisch oog		spells	spreuken		
+arcane gate		esoterische poort		spells	spreuken		
+arcane lock		magisch slot		spells	spreuken		
+armor of Agathys		harnas van Agathys		spells	spreuken		
+arms of Hadar		armen van Hadaar		spells	spreuken		
+astral projection		astrale projectie		spells	spreuken		
+augury		wichelarij		spells	spreuken		
+aura of life		aura van leven		spells	spreuken		
+aura of purity		aura van zuiverheid		spells	spreuken		
+aura of vitality		aura van vitaliteit		spells	spreuken		
+awaken		ontwaken		spells	spreuken		
+bane		vloek		spells	spreuken		
+banishing smite		verbannende slag		spells	spreuken		
+banishment		verbanning		spells	spreuken		
+barkskin		huid van bast		spells	spreuken		
+beacon of hope		baken van hoop		spells	spreuken		
+beast sense		beestenzintuig		spells	spreuken		
+bestow curse		vloek plaatsen		spells	spreuken		
+Bigby’s hand		hand van Biggebij	Hand van Reuzema	spells	spreuken		
+blade barrier		klingbarrière		spells	spreuken		
+blade ward		klinghoede	Slagenhoede	spells	spreuken		
+bless		zegenen		spells	spreuken		
+blight		plaag		spells	spreuken		Blight is een verzamelterm voor verschillende plantenziekten. Ik kon echter geen goed Nederlands equivalent vinden
+blinding smite		verblindende slag		spells	spreuken		
+blindness/deafness		blindheid/doofheid		spells	spreuken		
+blink		flikkering		spells	spreuken		
+blur		vervagen		spells	spreuken		
+branding smite		merkende slag		spells	spreuken		
+burning hands		brandende handen		spells	spreuken		
+call lightning		bliksem aanroepen		spells	spreuken		
+calm emotions		emoties kalmeren		spells	spreuken		
+chain lightning		kettingbliksem		spells	spreuken		
+charm person		persoon bezweren		spells	spreuken		
+chill touch		koude aanraking		spells	spreuken		
+chromatic orb		chromatische bol		spells	spreuken		
+circle of death		cirkel van dood		spells	spreuken		
+circle of power		cirkel van macht		spells	spreuken		
+clairvoyance		helderzien		spells	spreuken		
+clone		kloon		spells	spreuken		
+cloud of daggers		zwerm van dolken		spells	spreuken		
+cloudkill		wolkenmoord	Moordwolk	spells	spreuken		
+color spray		kleurverstuiving		spells	spreuken		
+command		bevel		spells	spreuken		
+commune		communie		spells	spreuken		
+commune with nature		spreken met natuur		spells	spreuken		
+compelled duel		gedwongen duel		spells	spreuken		
+comprehend languages		talen begrijpen		spells	spreuken		
+compulsion		dwang		spells	spreuken		
+cone of cold		kegel van kou		spells	spreuken		
+confusion		verwarring		spells	spreuken		
+conjure animals		dieren oproepen		spells	spreuken		
+conjure barrage		spervuur oproepen		spells	spreuken		
+conjure celestial		hemelse oproepen		spells	spreuken		
+conjure elemental		elementaal oproepen		spells	spreuken		
+conjure fey		fee oproepen		spells	spreuken		
+conjure minor elementals		mindere elementalen oproepen		spells	spreuken		
+conjure volley		salvo oproepen		spells	spreuken		
+conjure woodland beings		wezens van het woud oproepen		spells	spreuken		
+contact other planes		tot andere sferen spreken		spells	spreuken		
+contagion		besmetting		spells	spreuken		
+contingency		noodgeval		spells	spreuken		
+continual flame		eeuwige vlam		spells	spreuken		
+control water		water besturen		spells	spreuken		
+control weather		weer besturen		spells	spreuken		
+cordon of arrows		kordon van pijlen		spells	spreuken		
+counterspell		tegenspreuk		spells	spreuken		
+create food and water		voedsel en water scheppen		spells	spreuken		
+create of destroy water		water scheppen of vernietigen		spells	spreuken		
+create undead		ondoden creëren		spells	spreuken		
+creation		schepping		spells	spreuken		
+crown of madness		kroon van waanzin		spells	spreuken		
+crusader’s mantle		mantel van de kruisvaarder		spells	spreuken		
+cure wounds		wonden genezen		spells	spreuken		
+dancing lights		dansende lichtjes		spells	spreuken		
+darkness		duisternis		spells	spreuken		
+darkvision		duisterzicht		spells	spreuken		
+daylight		daglicht		spells	spreuken		
+death ward		doodshoede		spells	spreuken		
+delayed blast fireball		vuurbal met vertraagde ontploffing		spells	spreuken		
+demiplane		demisfeer		spells	spreuken		
+destructive wave		verwoestende golf		spells	spreuken		
+detect evil and good		kwaad en goed ontwaren		spells	spreuken		
+detect magic		magie ontwaren		spells	spreuken		
+detect poison and disease		vergif and ziekte ontwaren		spells	spreuken		
+detect thoughts		gedachten ontwaren		spells	spreuken		
+dimension door		dimensiedeur		spells	spreuken		
+disguise self		zelf vermommen		spells	spreuken		
+disintegrate		ontbinding / desintegratie		spells	spreuken		
+dispel evil and good		kwaad en goed verdrijven		spells	spreuken		
+dispel magic		magie verdrijven		spells	spreuken		
+dissonant whispers		wangefluister		spells	spreuken		
+divination		waarzeggerij		spells	spreuken		
+divine favor		goddelijk voorrecht		spells	spreuken		
+divine word		goddelijk woord		spells	spreuken		
+dominate beast		beest beheersen		spells	spreuken		
+dominate monster		monster beheersen		spells	spreuken		
+dominate person		persoon beheersen		spells	spreuken		
+Drawmij’s instant summons		Draawnaj's onmiddellijke sommering		spells	spreuken		
+dream		dromen		spells	spreuken		
+druidcraft		druïdewerk		spells	spreuken		
+earthquake		aardbeving		spells	spreuken		
+eldritch blast		esoterische vlaag		spells	spreuken		
+elemental weapon		elementaal wapen		spells	spreuken		
+enhance ability		vaardigheid verbeteren		spells	spreuken		
+enlarge/reduce		vergroten/verkleinen		spells	spreuken		
+ensnaring strike		verstrikkende slag		spells	spreuken		
+entangle		verstrengelen		spells	spreuken		
+enthrall		betoveren	Betoverende Blik	spells	spreuken		
+etherealness		etherische staat		spells	spreuken		
+Evard’s black tentacles		Evaards zwarte tentakels		spells	spreuken		
+expeditious retreat		spoedige terugtocht		spells	spreuken		
+eyebite		oogbeet		spells	spreuken		
+fabricate		vervaardigen		spells	spreuken		
+faerie fire		feeënvuur		spells	spreuken		
+false life		vals leven		spells	spreuken		
+fear		angst		spells	spreuken		
+feather fall		verenval		spells	spreuken		
+feeblemind		weeëgeest		spells	spreuken		
+feign death		dood veinzen		spells	spreuken		
+find familiar		dubbel vinden		spells	spreuken		De familiar en de dubbel zijn allebei deel van de folklore over heksen in de respectievelijke cultuur, al gaat het om andere concepten. De dubbel is geen veredeld huisdier, maar een dierenvorm die de heks aanneemt, waarbij haar mensenlichaam achterblijft. Dat past toevallig goed genoeg bij de find familiar spreuk
+find steed		ros vinden		spells	spreuken		
+find the path		het pad vinden		spells	spreuken		
+find traps		vallen vinden		spells	spreuken		
+finger of death		vinger van dood		spells	spreuken		
+fireball		vuurbal		spells	spreuken		
+firebolt		vuurschicht		spells	spreuken		
+fire storm		vuurstorm		spells	spreuken		
+flame blade		vlammenkling		spells	spreuken		
+flame strike		vlammenslag		spells	spreuken		
+flaming sphere		vlammende bol		spells	spreuken		
+flesh to stone		vlees tot steen		spells	spreuken		
+fly		vliegen		spells	spreuken		
+fog cloud		mistwolk		spells	spreuken		
+forbiddance		verbod		spells	spreuken		
+force cage		kooi van kracht		spells	spreuken		
+foresight		vooruitzicht		spells	spreuken		
+freedom of movement		vrijheid van beweging		spells	spreuken		
+friends		vrienden		spells	spreuken		
+gaseous form		gasvorm		spells	spreuken		
+gate		poort		spells	spreuken		
+geas		geis	Banvloek, Dwangvloek	spells	spreuken		
+gentle repose		zachte rust		spells	spreuken		
+giant insect		reuzeninsect		spells	spreuken		
+glibness		gladde tong		spells	spreuken		
+globe of invulnerability		bol van onkwetsbaarheid		spells	spreuken		
+glyph of warding		glief van afwering		spells	spreuken		
+goodberry		goedebes		spells	spreuken		
+grease		smeer		spells	spreuken		
+greater invisibility		krachtige onzichtbaarheid		spells	spreuken		
+greater restoration		krachtige herstelling		spells	spreuken		
+guardian of faith		geloofsbewaarder		spells	spreuken		
+guards and wards		bewakers en bewaarders		spells	spreuken		
+guidance		geleide		spells	spreuken		
+guiding bolt		leidende schicht		spells	spreuken		
+gust of wind		windvlaag		spells	spreuken		
+hail of thorns		hagel van doornen		spells	spreuken		
+hallow		wijden		spells	spreuken		
+hallucinatory terrain		bedrieglijk terrein		spells	spreuken		
+harm		krenken		spells	spreuken		
+haste		haast		spells	spreuken		
+heal		helen		spells	spreuken		
+healing word		helend woord		spells	spreuken		
+heat metal		metaal verhitten		spells	spreuken		
+hellish rebuke		helse vermaning		spells	spreuken		
+heroes’ feast		heldenmaal		spells	spreuken		
+heroism		heldenmoed		spells	spreuken		
+hex		beheksing		spells	spreuken		
+hold monster		monster verankeren		spells	spreuken		
+hold person		persoon verankeren		spells	spreuken		
+holy aura		heilig aura		spells	spreuken		
+hunger of Hadar		honger van Hadaar		spells	spreuken		
+hunter’s mark		jagersdoelwit		spells	spreuken		
+hypnotic pattern		hypnotisch patroon		spells	spreuken		
+ice storm		ijsstorm		spells	spreuken		
+identify		identiteit		spells	spreuken		
+illusory script		illusiegeschrift		spells	spreuken		
+imprisonment		gevangenis		spells	spreuken		
+incendiary cloud		ontvlammende wolk		spells	spreuken		
+inflict wounds		wonden toebrengen		spells	spreuken		
+insect plague		insectenplaag		spells	spreuken		
+invisibility		onzichtbaarheid		spells	spreuken		
+jump		sprong		spells	spreuken		
+knock		kloppen		spells	spreuken		
+legend lore		overlevering van legenden		spells	spreuken		
+Leomund’s secret chest		Leomonds geheime kist		spells	spreuken		
+Leomund’s tiny hut		Leomonds kleine hut		spells	spreuken		
+lesser restoration		zwakkere herstelling		spells	spreuken		
+levitate		zweven		spells	spreuken		
+light		licht		spells	spreuken		
+lightning arrow		bliksempijl		spells	spreuken		
+lightning bolt		bliksemschicht		spells	spreuken		
+locate animals or plants		dieren of planten lokaliseren		spells	spreuken		
+locate create		wezen lokaliseren		spells	spreuken		
+locate object		object lokaliseren		spells	spreuken		
+longstrider		langepasser		spells	spreuken		
+mage armor		magisch harnas		spells	spreuken		
+mage hand		magische hand		spells	spreuken		
+magic circle		magische cirkel		spells	spreuken		
+magic jar		magische pot		spells	spreuken		
+magic missile		magische raket		spells	spreuken		
+magic mouth		magische mond		spells	spreuken		
+magic weapon		magisch wapen		spells	spreuken		
+major image		groter beeld		spells	spreuken		
+mass cure wounds		massawondenheling		spells	spreuken		
+mass heal		massaheling		spells	spreuken		
+mass healing word		massa helend woord		spells	spreuken		
+mass suggestion		massasuggestie		spells	spreuken		
+maze		doolhof		spells	spreuken		
+meld into stone		opgaan in steen		spells	spreuken		
+Melf’s acid arrow		Melfs zure pijl		spells	spreuken		
+mending		reparatie		spells	spreuken		
+message		bericht		spells	spreuken		
+meteor swarm		meteorenzwerm		spells	spreuken		
+mind blank		ledige geest		spells	spreuken		
+minor illusion		zwakkere illusie		spells	spreuken		
+mirage arcane		esoterische luchtspiegeling		spells	spreuken		
+mirror image		spiegelbeeld		spells	spreuken		
+mislead		misleiden		spells	spreuken		
+misty step		nevelstap		spells	spreuken		
+modify memory		geheugen aanpassen		spells	spreuken		
+moonbeam		manestraal		spells	spreuken		
+Mordenkainen’s faithful hound		Mordenkainens trouwe hond		spells	spreuken		
+Mordenkainen’s magnificent mansion		Mordenkainens voortreffelijke villa		spells	spreuken		
+Mordenkainen’s private sanctum		Mordenkainens persoonlijke schuilplaats		spells	spreuken		
+Mordenkainen’s sword		Mordenkainens zwaard		spells	spreuken		
+move earth		aarde bewegen		spells	spreuken		
+nondetection		onopgespoordheid		spells	spreuken		
+Nystul’s magic aura		Nijstuuls magische aura		spells	spreuken		
+Otiluke’s freezing sphere		Otilukes bevriezende bol		spells	spreuken		
+Otiluke’s resilient sphere		Otilukes stevige bol		spells	spreuken		
+Otto’s irresistible dance		Otto’s onweerstaanbare dans		spells	spreuken		
+pass without trace		spoorloze pas		spells	spreuken		
+passwall		muurvoorbij		spells	spreuken		
+phantasmal force		waankracht		spells	spreuken		
+phantasmal killer		waanverschrikking		spells	spreuken		
+phantom steed		spookros		spells	spreuken		
+planar ally		sferische medestander		spells	spreuken		
+planar binding		sferische binding		spells	spreuken		
+plane shift		sferensprong		spells	spreuken		
+plant growth		plantengroei		spells	spreuken		
+poison spray		gifsproei		spells	spreuken		
+polymorph		polymorf		spells	spreuken		
+power word heal		krachtwoord van heling		spells	spreuken		
+power word kill		krachtwoord van vonnis		spells	spreuken		
+power word stun		krachtwoord van bedwelming		spells	spreuken		
+prayer of healing		gebed van heling		spells	spreuken		
+prestidigitation		goochelarij		spells	spreuken		
+prismatic spray		prismastralen		spells	spreuken		
+prismatic wall		prismatische muur		spells	spreuken		
+produce flame		vlam maken		spells	spreuken		
+programmed illusion		geprogrammeerde illusie		spells	spreuken		
+project image		beeld projecteren		spells	spreuken		
+protection from energy		bescherming tegen energie		spells	spreuken		
+protection from evil and good		bescherming tegen kwaad en goed		spells	spreuken		
+protection from poison		bescherming tegen gif		spells	spreuken		
+purify food and drink		eten en drinken zuiveren		spells	spreuken		
+raise dead		doden terugbrengen		spells	spreuken		
+Rary’s telephathic bond		Raries telepathische band		spells	spreuken		
+ray of enfeeblement		straal van verzwakking		spells	spreuken		
+ray of frost		straal van vorst		spells	spreuken		
+ray of sickness		straal van ziekte		spells	spreuken		
+regenerate		regenereren		spells	spreuken		
+reincarnate		reïncarnatie		spells	spreuken		
+remove curse		vloek verwijderen		spells	spreuken		
+resistance		bestandheid		spells	spreuken		
+resurrection		herrijzing		spells	spreuken		
+reverse gravity		zwaartekracht omkeren		spells	spreuken		
+revivify		reanimeren		spells	spreuken		
+rope trick		touwkunstje		spells	spreuken		
+sacred flame		heilige vlam		spells	spreuken		
+sanctuary		toevluchtsoord		spells	spreuken		
+scorching ray		schroeiende straal		spells	spreuken		
+scrying		kristalkijken		spells	spreuken		
+searing smite		schroeiende slag		spells	spreuken		
+see invisibility		onzichtbaarheid zien		spells	spreuken		
+seeming		schijnen		spells	spreuken		
+sending		zending		spells	spreuken		
+sequester		afzondering		spells	spreuken		
+shapechange		gedaantewisseling		spells	spreuken		
+shatter		verbrijzelen		spells	spreuken		
+shield		schild		spells	spreuken		
+shield of faith		schild van geloof		spells	spreuken		
+shillelagh		shillelagh		spells	spreuken		
+shocking grasp		schokkende greep		spells	spreuken		
+silence		stilte		spells	spreuken		
+silent image		geluidloos beeld		spells	spreuken		
+simulacrum		simulacrum		spells	spreuken		
+sleep		slaap		spells	spreuken		
+sleet storm		sneeuwstorm		spells	spreuken		
+slow		vertragen		spells	spreuken		
+spare the dying		de stervenden sparen		spells	spreuken		
+speak with animals		dierenspraak		spells	spreuken		
+speak with dead		dodenspraak		spells	spreuken		
+speak with plants		plantenspraak		spells	spreuken		
+spider climb		spinnengeklim		spells	spreuken		
+spike growth		stekelgroei		spells	spreuken		
+spirit guardian		beschermgeest		spells	spreuken		
+spiritual weapon		onstoffelijk wapen	Spiritueel Wapen	spells	spreuken		
+staggering smite		verbluffende slag		spells	spreuken		
+stinking cloud		stinkende wolk		spells	spreuken		
+stone shape		steen omvormen		spells	spreuken		
+stoneskin		huid van steen		spells	spreuken		
+storm of vengeance		storm van wraak		spells	spreuken		
+suggestion		suggestie		spells	spreuken		
+sunbeam		zonnestraal		spells	spreuken		
+sunburst		zonuitbarsting		spells	spreuken		
+swift quiver		vlotte koker		spells	spreuken		
+symbol		symbool		spells	spreuken		
+Tasha’s hideous laughter		Tasha’s afgrijselijke lach		spells	spreuken		
+telekinesis		telekinese		spells	spreuken		
+telepathy		telepathie		spells	spreuken		
+teleport		teleportatie		spells	spreuken		
+teleportation circle		teleportatiecirkel		spells	spreuken		
+Tenser’s floating disk		Tensers zwevende schijf		spells	spreuken		
+thaumaturgy		thaumaturgie		spells	spreuken		
+thorn whip		doornenzweep		spells	spreuken		
+thunderous smite		donderslag		spells	spreuken		
+thunderwave		dondergolf		spells	spreuken		
+time stop		tijdsstop		spells	spreuken		
+tongues		talen		spells	spreuken		
+transport via plants		vervoer door planten		spells	spreuken		
+tree stride		bomenstap		spells	spreuken		
+true polymorph		ware polymorph		spells	spreuken		
+true resurrection		ware herrijzing		spells	spreuken		
+true seeing		waar zien		spells	spreuken		
+true strike		ware slag		spells	spreuken		
+tsunami		tsunami		spells	spreuken		
+unseen servant		ongeziene dienaar		spells	spreuken		
+vampiric touch		vampirische aanraking		spells	spreuken		
+vicious mockery		wrede spotternij		spells	spreuken		
+wall of fire		muur van vuur		spells	spreuken		
+wall of force		muur van kracht		spells	spreuken		
+wall of ice		muur van ijs		spells	spreuken		
+wall of stone		muur van steen		spells	spreuken		
+wall of thorns		muur van doornen		spells	spreuken		
+warding bond		beschermende band		spells	spreuken		
+water breathing		wateradem		spells	spreuken		
+water walk		waterloop		spells	spreuken		
+web		web		spells	spreuken		
+weird		noodlot		spells	spreuken		Ik neem aan dat weird hier verwijst naar het Angelsaksische begrip wyrd.
+wind walk		windloop		spells	spreuken		
+wind wall		windmuur		spells	spreuken		
+wish		wens		spells	spreuken		
+witch bolt		heksenschicht		spells	spreuken		
+word of recall		woord van terugroeping		spells	spreuken		
+wrathful smite		toornende slag		spells	spreuken		
+zone of truth		zone van waarheidrspat		spells	spreuken		
+forgotten realms		hulp		gods	goden		
 Auril, goddess of winter	Forgotten Realms	Auril, godin van de winter		gods	goden		
 Azuth, god of wizards	Forgotten Realms	Azuth, god van tovenaars		gods	goden		
 Bane, god of tyranny	Forgotten Realms	Doem, god van tirannie		gods	goden		
@@ -875,62 +875,62 @@ Surtur, god of fire giants and craft	Non-human deities	Surtur, god van vuurreuze
 Thrym, god of frost giants and strength	Non-human deities	Thrym, god van ijsreuzen en kracht		gods	goden		
 Tiamat, dragon goddess of evil	Non-human deities	Tiamat, drakengodin van het kwaad		gods	goden		
 Yondalla, halfling goddess of fertility and protection	Non-human deities	Yondalla, halvelingengod van vruchtbaarheid en bescherming		gods	goden		
-Adamantine armour		adamantinen harnas		magic items	magische voorwerpen		
-Alchemy jug		alchemiekruik		magic items	magische voorwerpen		
-Amulet of health		amulet van gezondheid		magic items	magische voorwerpen		
-Amulet of proof against detection and location		amulet van bescherming tegen detectie en locatie		magic items	magische voorwerpen		
-Amulet of the planes		amulet van de sferen		magic items	magische voorwerpen		
-Animated shield		geanimeerd schild		magic items	magische voorwerpen		
-Apparatus of Kwalish		appraat van Kwalisch		magic items	magische voorwerpen		
-Armour of invulnerability		harnas van onkwetsbaarheid		magic items	magische voorwerpen		
-Armour of resistance		harnas van weerstand		magic items	magische voorwerpen		
-Armour of vulnerability		harnas van kwetsbaarheid		magic items	magische voorwerpen		
-Arrow-catching shield		pijlenvangend schild		magic items	magische voorwerpen		
-Arrow of slaying		pijl van slachting		magic items	magische voorwerpen		
-Bag of beans		bonenzak		magic items	magische voorwerpen		
-Bag of devouring		tas van verslinding		magic items	magische voorwerpen		
-Bag of holding		tas van opslag		magic items	magische voorwerpen		
-Bag of tricks		trukenzak		magic items	magische voorwerpen		
-Bead of force		kraal van kracht		magic items	magische voorwerpen		
-Belt of dwarvenkind		riem van dwergendom		magic items	magische voorwerpen		
-Belt of giant strength		riem van reuzekracht		magic items	magische voorwerpen		
-Berserker axe		berserkerbijl		magic items	magische voorwerpen		
-Boots of elvenkind		laarzen van elvendom		magic items	magische voorwerpen		
-Boots of levitation		laarzen van levitatie		magic items	magische voorwerpen		
-Boots of speed		laarzen van snelheid		magic items	magische voorwerpen		
-Boots of striding and springing		laarzen van stappen en springen		magic items	magische voorwerpen		
-Boots of the winterlands		laarzen van de winterlanden		magic items	magische voorwerpen		
-Bowl of commanding water elementals		kom van gezag over waterelementalen		magic items	magische voorwerpen		
-Bracers of archery		armbeschermers van boogschutterij		magic items	magische voorwerpen		
-Braces of defense		armbeschermers van verweer		magic items	magische voorwerpen		
-Brazier of commanding fire elementals		korf van gezag over vuurelementalen		magic items	magische voorwerpen		
-Brooch of shielding		broche van behoeding		magic items	magische voorwerpen		
-Broom of flying		vliegende bezem		magic items	magische voorwerpen		
-Candle of invocation		kaars van aanroeping		magic items	magische voorwerpen		
-Cap of water breathing		kap van water ademen		magic items	magische voorwerpen		
-Cape of the mountebank		cape van de kwakzalver		magic items	magische voorwerpen		
-Carpet of flying		vliegend tapijt		magic items	magische voorwerpen		
-Censer of controlling air elementals		wierookvat van gezag over luchtelementalen (evt. thuribulum)		magic items	magische voorwerpen		
-Chime of opening		openend klokkenspel		magic items	magische voorwerpen		
-Circlet of blasting		diadeem van verschroeiing		magic items	magische voorwerpen		
-Cloak of arachnida		mantel van arachnida		magic items	magische voorwerpen		
-Cloak of displacement		mantel van misplaatsing		magic items	magische voorwerpen		
-Cloak of elvenkind		mantel van elvendom		magic items	magische voorwerpen		
-Cloak of invisibility		mantel van onzichtbaarheid		magic items	magische voorwerpen		
-Cloak of protection		mantel van bescherming		magic items	magische voorwerpen		
-Cloak of the bat		mantel van de vleermuis		magic items	magische voorwerpen		
-Cloak of the manta ray		mantel van de duivelsrog		magic items	magische voorwerpen		
+adamantine armour		adamantinen harnas		magic items	magische voorwerpen		
+alchemy jug		alchemiekruik		magic items	magische voorwerpen		
+amulet of health		amulet van gezondheid		magic items	magische voorwerpen		
+amulet of proof against detection and location		amulet van bescherming tegen detectie en locatie		magic items	magische voorwerpen		
+amulet of the planes		amulet van de sferen		magic items	magische voorwerpen		
+animated shield		geanimeerd schild		magic items	magische voorwerpen		
+apparatus of Kwalish		appraat van Kwalisch		magic items	magische voorwerpen		
+armour of invulnerability		harnas van onkwetsbaarheid		magic items	magische voorwerpen		
+armour of resistance		harnas van weerstand		magic items	magische voorwerpen		
+armour of vulnerability		harnas van kwetsbaarheid		magic items	magische voorwerpen		
+arrow-catching shield		pijlenvangend schild		magic items	magische voorwerpen		
+arrow of slaying		pijl van slachting		magic items	magische voorwerpen		
+bag of beans		bonenzak		magic items	magische voorwerpen		
+bag of devouring		tas van verslinding		magic items	magische voorwerpen		
+bag of holding		tas van opslag		magic items	magische voorwerpen		
+bag of tricks		trukenzak		magic items	magische voorwerpen		
+bead of force		kraal van kracht		magic items	magische voorwerpen		
+belt of dwarvenkind		riem van dwergendom		magic items	magische voorwerpen		
+belt of giant strength		riem van reuzekracht		magic items	magische voorwerpen		
+berserker axe		berserkerbijl		magic items	magische voorwerpen		
+boots of elvenkind		laarzen van elvendom		magic items	magische voorwerpen		
+boots of levitation		laarzen van levitatie		magic items	magische voorwerpen		
+boots of speed		laarzen van snelheid		magic items	magische voorwerpen		
+boots of striding and springing		laarzen van stappen en springen		magic items	magische voorwerpen		
+boots of the winterlands		laarzen van de winterlanden		magic items	magische voorwerpen		
+bowl of commanding water elementals		kom van gezag over waterelementalen		magic items	magische voorwerpen		
+bracers of archery		armbeschermers van boogschutterij		magic items	magische voorwerpen		
+braces of defense		armbeschermers van verweer		magic items	magische voorwerpen		
+brazier of commanding fire elementals		korf van gezag over vuurelementalen		magic items	magische voorwerpen		
+brooch of shielding		broche van behoeding		magic items	magische voorwerpen		
+broom of flying		vliegende bezem		magic items	magische voorwerpen		
+candle of invocation		kaars van aanroeping		magic items	magische voorwerpen		
+cap of water breathing		kap van water ademen		magic items	magische voorwerpen		
+cape of the mountebank		cape van de kwakzalver		magic items	magische voorwerpen		
+carpet of flying		vliegend tapijt		magic items	magische voorwerpen		
+censer of controlling air elementals		wierookvat van gezag over luchtelementalen	thuribulum van gezag over luchtelementalen	magic items	magische voorwerpen		
+chime of opening		openend klokkenspel		magic items	magische voorwerpen		
+circlet of blasting		diadeem van verschroeiing		magic items	magische voorwerpen		
+cloak of Arachnida		mantel van Arachnida		magic items	magische voorwerpen		
+cloak of displacement		mantel van misplaatsing		magic items	magische voorwerpen		
+cloak of elvenkind		mantel van elvendom		magic items	magische voorwerpen		
+cloak of invisibility		mantel van onzichtbaarheid		magic items	magische voorwerpen		
+cloak of protection		mantel van bescherming		magic items	magische voorwerpen		
+cloak of the bat		mantel van de vleermuis		magic items	magische voorwerpen		
+cloak of the manta ray		mantel van de duivelsrog		magic items	magische voorwerpen		
 crystall ball		glazen bol		magic items	magische voorwerpen		
 crystal ball of mind reading	crystall ball	glazen bol van gedachten lezen		magic items	magische voorwerpen		
 crystal ball of telepathy	crystall ball	glazen bol van telepathie		magic items	magische voorwerpen		
 crystal ball of true seeing	crystall ball	glazen bol van waarzicht		magic items	magische voorwerpen		
-Cube of force		kubus van kracht		magic items	magische voorwerpen		
-Cubic gate		kubische poort		magic items	magische voorwerpen		
+cube of force		kubus van kracht		magic items	magische voorwerpen		
+cubic gate		kubische poort		magic items	magische voorwerpen		
 Daern’s instant fortress		Daerns kant-en-klaar kasteel		magic items	magische voorwerpen		
-Dagger of venom		gifdolk		magic items	magische voorwerpen		
-Dancing sword		dansend zwaard		magic items	magische voorwerpen		
-Decanter of endless water		karaf van eindeloos water		magic items	magische voorwerpen		
-Deck of illusions		kaartspel van illusies		magic items	magische voorwerpen		
+dagger of venom		gifdolk		magic items	magische voorwerpen		
+dancing sword		dansend zwaard		magic items	magische voorwerpen		
+decanter of endless water		karaf van eindeloos water		magic items	magische voorwerpen		
+deck of illusions		kaartspel van illusies		magic items	magische voorwerpen		
 deck of many things		kaartspel van vele dingen		magic items	magische voorwerpen		
 balance	deck of many things	balans		magic items	magische voorwerpen		
 comet	deck of many things	komeet		magic items	magische voorwerpen		
@@ -954,62 +954,62 @@ talons	deck of many things	klauwen		magic items	magische voorwerpen
 throne	deck of many things	troon		magic items	magische voorwerpen		
 vizier	deck of many things	vizier		magic items	magische voorwerpen		
 the void	deck of many things	de leegte		magic items	magische voorwerpen		
-Defender		verdediger		magic items	magische voorwerpen		
-Demon armour		demonenharnas		magic items	magische voorwerpen		
-Dimensional shackles		dimensionale ketenen		magic items	magische voorwerpen		
-Dragon scale mail		drakenschubbenharnas		magic items	magische voorwerpen		
-Dragon slayer		drakendoder		magic items	magische voorwerpen		
-Driftglobe		zweefglobe		magic items	magische voorwerpen		
-Dust of disappearance		stof van verdwijning		magic items	magische voorwerpen		
-Dust of dryness		stof van droogte		magic items	magische voorwerpen		
-Dust of sneezing and choking		stof van niezen en stikken		magic items	magische voorwerpen		
-Dwarven plate		dwergenplaat		magic items	magische voorwerpen		
-Dwarven thrower		dwergenwerper		magic items	magische voorwerpen		
-Efreeti bottle		efreetifles		magic items	magische voorwerpen		
-Efreeti chain		efreetiketen		magic items	magische voorwerpen		
-Elemental gem		elementale edelsteen		magic items	magische voorwerpen		
-Elixir of health		elixer van gezondheid		magic items	magische voorwerpen		
-Elven chain		maliënkolder van de elven		magic items	magische voorwerpen		
-Eversmoking bottle		altijdrokende fles		magic items	magische voorwerpen		
-Eyes of charming		ogen van bezwering		magic items	magische voorwerpen		
-Eyes of minute seeing		ogen van minutieus zicht		magic items	magische voorwerpen		
-Eyes of the eagle		ogen van de adelaar		magic items	magische voorwerpen		
+defender		verdediger		magic items	magische voorwerpen		
+demon armour		demonenharnas		magic items	magische voorwerpen		
+dimensional shackles		dimensionale ketenen		magic items	magische voorwerpen		
+dragon scale mail		drakenschubbenharnas		magic items	magische voorwerpen		
+dragon slayer		drakendoder		magic items	magische voorwerpen		
+driftglobe		zweefglobe		magic items	magische voorwerpen		
+dust of disappearance		stof van verdwijning		magic items	magische voorwerpen		
+dust of dryness		stof van droogte		magic items	magische voorwerpen		
+dust of sneezing and choking		stof van niezen en stikken		magic items	magische voorwerpen		
+dwarven plate		dwergenplaat		magic items	magische voorwerpen		
+dwarven thrower		dwergenwerper		magic items	magische voorwerpen		
+efreeti bottle		efreetifles		magic items	magische voorwerpen		
+efreeti chain		efreetiketen		magic items	magische voorwerpen		
+elemental gem		elementale edelsteen		magic items	magische voorwerpen		
+elixir of health		elixer van gezondheid		magic items	magische voorwerpen		
+elven chain		maliënkolder van de elven		magic items	magische voorwerpen		
+eversmoking bottle		altijdrokende fles		magic items	magische voorwerpen		
+eyes of charming		ogen van bezwering		magic items	magische voorwerpen		
+eyes of minute seeing		ogen van minutieus zicht		magic items	magische voorwerpen		
+eyes of the eagle		ogen van de adelaar		magic items	magische voorwerpen		
 figurine of wondrouw power		beeldje van wonderlijke macht		magic items	magische voorwerpen		
-Bronze griffon	figurine of wondrouw power	bronzen griffioen		magic items	magische voorwerpen		
-Ebony fly	figurine of wondrouw power	ebben vlieg		magic items	magische voorwerpen		
-Golden lions	figurine of wondrouw power	gouden leeuwen		magic items	magische voorwerpen		
-Ivory goats	figurine of wondrouw power	ivoren geiten		magic items	magische voorwerpen		
-Marble elephant	figurine of wondrouw power	marmeren olifant		magic items	magische voorwerpen		
-Obsidian steed	figurine of wondrouw power	obsidianen ros		magic items	magische voorwerpen		
-Onyx dog	figurine of wondrouw power	onyxen hond		magic items	magische voorwerpen		
-Serpentine owl	figurine of wondrouw power	serpentijnen uil		magic items	magische voorwerpen		
-Silver raven	figurine of wondrouw power	zilveren raaf		magic items	magische voorwerpen		
-Flame tongue		vlammentong		magic items	magische voorwerpen		
-Folding boat		opvouwboot		magic items	magische voorwerpen		
-Frost brand		vorstmerk		magic items	magische voorwerpen		
-Gauntlets of ogre power		pantserhandschoenen van ogermacht		magic items	magische voorwerpen		
-Gem of brightness		lichtsteen		magic items	magische voorwerpen		
-Gem of seeing		steen van zicht		magic items	magische voorwerpen		
-Giant slayer		reuzendoder		magic items	magische voorwerpen		
-Glamoured studded leather		betoverend beslagen leer		magic items	magische voorwerpen		
-Gloves of missile snaring		handschoenen van pijlenstrikken		magic items	magische voorwerpen		
-Gloves of swimming and climbing		handschoenen van zwemmen en klimmen		magic items	magische voorwerpen		
-Gloves of thievery		handschoenen van diefstal		magic items	magische voorwerpen		
-Goggles of night		bril van de nacht		magic items	magische voorwerpen		
-Hammer of thunderbolts		hamer van donderschichten		magic items	magische voorwerpen		
-Hat of disguise		vermommingshoed		magic items	magische voorwerpen		
-Headband of intellect		hoofdband van intellect		magic items	magische voorwerpen		
-Helm of brilliance		helm van helderheid		magic items	magische voorwerpen		
-Helm of comprehending languages		helm van talen begrijpen		magic items	magische voorwerpen		
-Helm of telepathy		helm van telepathie		magic items	magische voorwerpen		
-Helm of teleportation		helm van teleportatie		magic items	magische voorwerpen		
+bronze griffon	figurine of wondrouw power	bronzen griffioen		magic items	magische voorwerpen		
+ebony fly	figurine of wondrouw power	ebben vlieg		magic items	magische voorwerpen		
+golden lions	figurine of wondrouw power	gouden leeuwen		magic items	magische voorwerpen		
+ivory goats	figurine of wondrouw power	ivoren geiten		magic items	magische voorwerpen		
+marble elephant	figurine of wondrouw power	marmeren olifant		magic items	magische voorwerpen		
+obsidian steed	figurine of wondrouw power	obsidianen ros		magic items	magische voorwerpen		
+onyx dog	figurine of wondrouw power	onyxen hond		magic items	magische voorwerpen		
+serpentine owl	figurine of wondrouw power	serpentijnen uil		magic items	magische voorwerpen		
+silver raven	figurine of wondrouw power	zilveren raaf		magic items	magische voorwerpen		
+flame tongue		vlammentong		magic items	magische voorwerpen		
+folding boat		opvouwboot		magic items	magische voorwerpen		
+frost brand		vorstmerk		magic items	magische voorwerpen		
+gauntlets of ogre power		pantserhandschoenen van ogermacht		magic items	magische voorwerpen		
+gem of brightness		lichtsteen		magic items	magische voorwerpen		
+gem of seeing		steen van zicht		magic items	magische voorwerpen		
+giant slayer		reuzendoder		magic items	magische voorwerpen		
+glamoured studded leather		betoverend beslagen leer		magic items	magische voorwerpen		
+gloves of missile snaring		handschoenen van pijlenstrikken		magic items	magische voorwerpen		
+gloves of swimming and climbing		handschoenen van zwemmen en klimmen		magic items	magische voorwerpen		
+gloves of thievery		handschoenen van diefstal		magic items	magische voorwerpen		
+goggles of night		bril van de nacht		magic items	magische voorwerpen		
+hammer of thunderbolts		hamer van donderschichten		magic items	magische voorwerpen		
+hat of disguise		vermommingshoed		magic items	magische voorwerpen		
+headband of intellect		hoofdband van intellect		magic items	magische voorwerpen		
+helm of brilliance		helm van helderheid		magic items	magische voorwerpen		
+helm of comprehending languages		helm van talen begrijpen		magic items	magische voorwerpen		
+helm of telepathy		helm van telepathie		magic items	magische voorwerpen		
+helm of teleportation		helm van teleportatie		magic items	magische voorwerpen		
 Heward’s handy haversack		Heuvaards handige knapzak		magic items	magische voorwerpen		
-Holy avenger		heilige wreker		magic items	magische voorwerpen		
-Horn of blasting		donderhoorn		magic items	magische voorwerpen		
-Horn of valhalla		hoorn van valhalla		magic items	magische voorwerpen		
-Horseshoes of a zephyr		hoefijzers van een zefier		magic items	magische voorwerpen		
-Horeshoes of speed		hoefijzers van snelheid		magic items	magische voorwerpen		
-Immovable rod		onbeweegbare roede		magic items	magische voorwerpen		
+holy avenger		heilige wreker		magic items	magische voorwerpen		
+horn of blasting		donderhoorn		magic items	magische voorwerpen		
+horn of Valhalla		hoorn van Valhalla		magic items	magische voorwerpen		
+horseshoes of a zephyr		hoefijzers van een zefier		magic items	magische voorwerpen		
+horeshoes of speed		hoefijzers van snelheid		magic items	magische voorwerpen		
+immovable rod		onbeweegbare roede		magic items	magische voorwerpen		
 instrument of the bards		instrument van de barden		magic items	magische voorwerpen		
 Anstruth harp	instrument of the bards	harp van Anstroet		magic items	magische voorwerpen		
 Canaith mandolin	instrument of the bards	mandoline van Canaïth		magic items	magische voorwerpen		
@@ -1019,615 +1019,643 @@ Fochlucan bandore	instrument of the bards	bandura van Fochlucan		magic items	mag
 Mac-Fuirmidh cittern	instrument of the bards	citer van Mac-Fuirmidh		magic items	magische voorwerpen		
 Ollamh harp	instrument of the bards	harp van Ollamh		magic items	magische voorwerpen		
 Ioun stone		steen van Ioun		magic items	magische voorwerpen		
-Iron bands of Bilarro		ijzeren banden van Bilarro		magic items	magische voorwerpen		
-Iron flask		ijzeren flacon		magic items	magische voorwerpen		
-Javelin of lightning		bliksemspeer		magic items	magische voorwerpen		
+iron bands of Bilarro		ijzeren banden van Bilarro		magic items	magische voorwerpen		
+iron flask		ijzeren flacon		magic items	magische voorwerpen		
+javelin of lightning		bliksemspeer		magic items	magische voorwerpen		
 Keoghtom’s ointment		zalf van Keoghtom		magic items	magische voorwerpen		
-Lantern of revealing		lantaarn van onthulling		magic items	magische voorwerpen		
-Luck blade		kling van geluk		magic items	magische voorwerpen		
-Mace of disruption		knots van verstoring		magic items	magische voorwerpen		
-Mace of smiting		knots van slagen		magic items	magische voorwerpen		
-Mace of terror		knots van verschrikking		magic items	magische voorwerpen		
-Mantle of spell resistance		mantel van spreukenweerstand		magic items	magische voorwerpen		
-Manual of bodily health		handleiding van lichamelijke gezondheid		magic items	magische voorwerpen		
-Manual of golems		handleiding van golems		magic items	magische voorwerpen		
-Manual of quickness of action		handleiding van vlugge handeling		magic items	magische voorwerpen		
-Mariner’s armour		maniniersharnas		magic items	magische voorwerpen		
-Medallion of thoughts		medaille van gedachten		magic items	magische voorwerpen		
-Mirror of life trapping		spiegel van levensverstrikking		magic items	magische voorwerpen		
-Mithral armour		mithralharnas		magic items	magische voorwerpen		
-Necklace of adaptation		ketting van aanpassing		magic items	magische voorwerpen		
-Necklace of fireballs		ketting van vurrballen		magic items	magische voorwerpen		
-Necklace of prayer beads		ketting van gebedskralen		magic items	magische voorwerpen		
-Nine lives stealer		negenlevensdief		magic items	magische voorwerpen		
+lantern of revealing		lantaarn van onthulling		magic items	magische voorwerpen		
+luck blade		kling van geluk		magic items	magische voorwerpen		
+mace of disruption		knots van verstoring		magic items	magische voorwerpen		
+mace of smiting		knots van slagen		magic items	magische voorwerpen		
+mace of terror		knots van verschrikking		magic items	magische voorwerpen		
+mantle of spell resistance		mantel van spreukenweerstand		magic items	magische voorwerpen		
+manual of bodily health		handleiding van lichamelijke gezondheid		magic items	magische voorwerpen		
+manual of golems		handleiding van golems		magic items	magische voorwerpen		
+manual of quickness of action		handleiding van vlugge handeling		magic items	magische voorwerpen		
+mariner’s armour		maniniersharnas		magic items	magische voorwerpen		
+medallion of thoughts		medaille van gedachten		magic items	magische voorwerpen		
+mirror of life trapping		spiegel van levensverstrikking		magic items	magische voorwerpen		
+mithral armour		mithralharnas		magic items	magische voorwerpen		
+necklace of adaptation		ketting van aanpassing		magic items	magische voorwerpen		
+necklace of fireballs		ketting van vurrballen		magic items	magische voorwerpen		
+necklace of prayer beads		ketting van gebedskralen		magic items	magische voorwerpen		
+nine lives stealer		negenlevensdief		magic items	magische voorwerpen		
 Nolzur’s marvelous pigments		Nolzurs prachtige pigmenten		magic items	magische voorwerpen		
-Oathbow		eedboog		magic items	magische voorwerpen		
-Oil of etherealnes		olie van etherische staat		magic items	magische voorwerpen		
-Oil of sharpness		olie van geslepenheid		magic items	magische voorwerpen		
-Oil of slipperiness		olie van glibberigheid		magic items	magische voorwerpen		
-Pearl of power		parel van macht		magic items	magische voorwerpen		
-Periapt of health		periapt van gezondheid		magic items	magische voorwerpen		
-Periapt of proof against poison		periapt van bescherming tegen gif		magic items	magische voorwerpen		
-Periapt of wound closure		periapt van wondensluiting		magic items	magische voorwerpen		
-Philter of love		filtrum van liefde		magic items	magische voorwerpen		
-Pipes of haunting		spookfluit		magic items	magische voorwerpen		
-Pipes of the sewers		rioolfluit		magic items	magische voorwerpen		
-Plate armour of etherealness		etherisch plaatharnas		magic items	magische voorwerpen		
-Portable hole		draagbaar gat		magic items	magische voorwerpen		
-Potion of animal friendship		elixer van dierenvriendschap		magic items	magische voorwerpen		
-Potion of clairvoyance		elixer van helderziendheid		magic items	magische voorwerpen		
-Potion of climbing		elixer van klimmen		magic items	magische voorwerpen		
-Potion of diminution		elixer van verkleining		magic items	magische voorwerpen		
-Potion of fire breath		elixer van vuurspuwen		magic items	magische voorwerpen		
-Potion of flying		elixer van vliegen		magic items	magische voorwerpen		
-Potion of gaseous form		elixer van gasvorm		magic items	magische voorwerpen		
-Potion of giant strength		elixer van reuzenkracht		magic items	magische voorwerpen		
-Potion of growth		elixer van groei		magic items	magische voorwerpen		
-Potion of healing		elixer van heling		magic items	magische voorwerpen		
-Potion of heroism		elixer van heldenmoed		magic items	magische voorwerpen		
-Potion of invisibility		elixer van onzichtbaarheid		magic items	magische voorwerpen		
-Potion of invulnerability		elixer van onkwetsbaarheid		magic items	magische voorwerpen		
-Potion of longevity		elixer van langlevendheid		magic items	magische voorwerpen		
-Potion of mind reading		elixer van gedachtenlezen		magic items	magische voorwerpen		
-Potion of poison		elixer van vergif		magic items	magische voorwerpen		
-Potion of resistance		elixer van weerstand		magic items	magische voorwerpen		
-Potion of speed		elixer van snelheid		magic items	magische voorwerpen		
-Potion of vitality		elixer van vitaliteit		magic items	magische voorwerpen		
-Potion of water breathing		elixer van wateradem		magic items	magische voorwerpen		
+oathbow		eedboog		magic items	magische voorwerpen		
+oil of etherealnes		olie van etherische staat		magic items	magische voorwerpen		
+oil of sharpness		olie van geslepenheid		magic items	magische voorwerpen		
+oil of slipperiness		olie van glibberigheid		magic items	magische voorwerpen		
+pearl of power		parel van macht		magic items	magische voorwerpen		
+periapt of health		periapt van gezondheid		magic items	magische voorwerpen		
+periapt of proof against poison		periapt van bescherming tegen gif		magic items	magische voorwerpen		
+periapt of wound closure		periapt van wondensluiting		magic items	magische voorwerpen		
+philter of love		filtrum van liefde		magic items	magische voorwerpen		
+pipes of haunting		spookfluit		magic items	magische voorwerpen		
+pipes of the sewers		rioolfluit		magic items	magische voorwerpen		
+plate armour of etherealness		etherisch plaatharnas		magic items	magische voorwerpen		
+portable hole		draagbaar gat		magic items	magische voorwerpen		
+potion of animal friendship		elixer van dierenvriendschap		magic items	magische voorwerpen		
+potion of clairvoyance		elixer van helderziendheid		magic items	magische voorwerpen		
+potion of climbing		elixer van klimmen		magic items	magische voorwerpen		
+potion of diminution		elixer van verkleining		magic items	magische voorwerpen		
+potion of fire breath		elixer van vuurspuwen		magic items	magische voorwerpen		
+potion of flying		elixer van vliegen		magic items	magische voorwerpen		
+potion of gaseous form		elixer van gasvorm		magic items	magische voorwerpen		
+potion of giant strength		elixer van reuzenkracht		magic items	magische voorwerpen		
+potion of growth		elixer van groei		magic items	magische voorwerpen		
+potion of healing		elixer van heling		magic items	magische voorwerpen		
+potion of heroism		elixer van heldenmoed		magic items	magische voorwerpen		
+potion of invisibility		elixer van onzichtbaarheid		magic items	magische voorwerpen		
+potion of invulnerability		elixer van onkwetsbaarheid		magic items	magische voorwerpen		
+potion of longevity		elixer van langlevendheid		magic items	magische voorwerpen		
+potion of mind reading		elixer van gedachtenlezen		magic items	magische voorwerpen		
+potion of poison		elixer van vergif		magic items	magische voorwerpen		
+potion of resistance		elixer van weerstand		magic items	magische voorwerpen		
+potion of speed		elixer van snelheid		magic items	magische voorwerpen		
+potion of vitality		elixer van vitaliteit		magic items	magische voorwerpen		
+potion of water breathing		elixer van wateradem		magic items	magische voorwerpen		
 Quaal’s feather token		Quaal's verenteken		magic items	magische voorwerpen		
-Anchor	Quaal’s feather token	anker		magic items	magische voorwerpen		
-Bird	Quaal’s feather token	vogel		magic items	magische voorwerpen		
-Fan	Quaal’s feather token	waaier		magic items	magische voorwerpen		
-Swan boat	Quaal’s feather token	zwanenboot		magic items	magische voorwerpen		
-Tree	Quaal’s feather token	boom		magic items	magische voorwerpen		
-Whip	Quaal’s feather token	zweep		magic items	magische voorwerpen		
-Quiver of Ehlonna		pijlenkoker van Ehlonna		magic items	magische voorwerpen		
-Ring of animal influence		ring van diereninvloed		magic items	magische voorwerpen		
-Ring of djinni summoning		ring van djinni-oproeping		magic items	magische voorwerpen		
-Ring of elemental command		ring van elementaal bevel		magic items	magische voorwerpen		
-Ring of evasion		ring van ontwijking		magic items	magische voorwerpen		
-Ring of feather falling		ring van verenval		magic items	magische voorwerpen		
-Ring of free action		ring van vrije actie		magic items	magische voorwerpen		
-Ring of invisibility		ring van onzichtbaarheid		magic items	magische voorwerpen		
-Ring of jumping		ring van sprong		magic items	magische voorwerpen		
-Ring of mind shielding		ring van #		magic items	magische voorwerpen		
-Ring of protection		ring van bescherming		magic items	magische voorwerpen		
-Ring of regeneration		ring van regeneratie		magic items	magische voorwerpen		
-Ring of resistance		ring van weerstand		magic items	magische voorwerpen		
-Ring of shooting stars		ring van vallende sterren		magic items	magische voorwerpen		
-Ring of spell storing		ring van spreukopslag		magic items	magische voorwerpen		
-Ring of spell turning		ring van spreukomkering		magic items	magische voorwerpen		
-Ring of swimming		ring van zwemmen		magic items	magische voorwerpen		
-Ring of the ram		ring van de ram		magic items	magische voorwerpen		
-Ring of three wishes		ring van drie wensen		magic items	magische voorwerpen		
-Ring of warmth		ring van warmte		magic items	magische voorwerpen		
-Ring of water walking		ring van waterloop		magic items	magische voorwerpen		
-Ring of x-ray vision		ring van röntgenzicht		magic items	magische voorwerpen		
-Robe of eyes		gewaad van ogen		magic items	magische voorwerpen		
-Robe of scintillating colours		gewaad van flikkerende kleuren		magic items	magische voorwerpen		
-Robe of stars		gewaad van sterren		magic items	magische voorwerpen		
-Robe of the archmagi		gewaad van de aartsmagi		magic items	magische voorwerpen		
-Robe of useful things		gewaad van nuttige dingen		magic items	magische voorwerpen		
-Robe of absorption		gewaad van absorbering		magic items	magische voorwerpen		
-Rod of alertness		roede van alterheid		magic items	magische voorwerpen		
-Rod of lordly might		roede van voorname macht		magic items	magische voorwerpen		
-Rod of the pact keeper		roede van de pactbewaarder		magic items	magische voorwerpen		
-Rod of resurrection		roede van herrijzing		magic items	magische voorwerpen		
-Rod of rulership		roede van heerschappij		magic items	magische voorwerpen		
-Rod of security		roede van veiligheid		magic items	magische voorwerpen		
-Rope of climbing		klimtouw		magic items	magische voorwerpen		
-Rope of entanglement		touw van verstrikking		magic items	magische voorwerpen		
-Saddle of the cavalier		ruiterszadel		magic items	magische voorwerpen		
-Scarab of protection		scarabee van bescherming		magic items	magische voorwerpen		
-Scimitar of speed		sabel van snelheid		magic items	magische voorwerpen		
-Scroll of protection		rol van bescherming		magic items	magische voorwerpen		
-Sending stones		zendstenen		magic items	magische voorwerpen		
-Sentinel shield		wachtsschild		magic items	magische voorwerpen		
-Shield of missile attraction		schild van pijlenaantrekking		magic items	magische voorwerpen		
-Slippers of spider climbing		sloffen van spinnengeklim		magic items	magische voorwerpen		
-Sovereign glue		koningslijm		magic items	magische voorwerpen		
-Spell scroll		spreukenrol		magic items	magische voorwerpen		
-Spellguard shield		spreukbewakend schild		magic items	magische voorwerpen		
-Sphere of annihilation		bol van vernietiging		magic items	magische voorwerpen		
-Staff of charming		staf van bezwering		magic items	magische voorwerpen		
-Staff of fire		vuurstaf		magic items	magische voorwerpen		
-Staff of frost		vorststaf		magic items	magische voorwerpen		
-Staff of healing		staf van heling		magic items	magische voorwerpen		
-Staff of power		staf van macht		magic items	magische voorwerpen		
-Staff of striking		staf van slagen		magic items	magische voorwerpen		
-Staff of swarming insects		staf van zwermende insecten		magic items	magische voorwerpen		
-Staff of the adder		staf van de adder		magic items	magische voorwerpen		
-Staff of the magi		staf van de mai		magic items	magische voorwerpen		
-Staff of the python		staf van de python		magic items	magische voorwerpen		
-Staff of the woodlands		staf van het woud		magic items	magische voorwerpen		
-Staff of thunder and lightning		staf van donder en bliksem		magic items	magische voorwerpen		
-Staff of withering		staf van verwelking		magic items	magische voorwerpen		
-Stone of controlling earth elementals		steen van gezag over aarde-elementalen		magic items	magische voorwerpen		
-Stone of good luck (luckstone)		steen van geluk (gelukssteen)		magic items	magische voorwerpen		
-Sun blade		zonnekling		magic items	magische voorwerpen		
+anchor	Quaal’s feather token	anker		magic items	magische voorwerpen		
+bird	Quaal’s feather token	vogel		magic items	magische voorwerpen		
+fan	Quaal’s feather token	waaier		magic items	magische voorwerpen		
+swan boat	Quaal’s feather token	zwanenboot		magic items	magische voorwerpen		
+tree	Quaal’s feather token	boom		magic items	magische voorwerpen		
+whip	Quaal’s feather token	zweep		magic items	magische voorwerpen		
+quiver of ehlonna		pijlenkoker van Ehlonna		magic items	magische voorwerpen		
+ring of animal influence		ring van diereninvloed		magic items	magische voorwerpen		
+ring of djinni summoning		ring van djinni-oproeping		magic items	magische voorwerpen		
+ring of elemental command		ring van elementaal bevel		magic items	magische voorwerpen		
+ring of evasion		ring van ontwijking		magic items	magische voorwerpen		
+ring of feather falling		ring van verenval		magic items	magische voorwerpen		
+ring of free action		ring van vrije actie		magic items	magische voorwerpen		
+ring of invisibility		ring van onzichtbaarheid		magic items	magische voorwerpen		
+ring of jumping		ring van sprong		magic items	magische voorwerpen		
+ring of mind shielding		ring van #		magic items	magische voorwerpen		
+ring of protection		ring van bescherming		magic items	magische voorwerpen		
+ring of regeneration		ring van regeneratie		magic items	magische voorwerpen		
+ring of resistance		ring van weerstand		magic items	magische voorwerpen		
+ring of shooting stars		ring van vallende sterren		magic items	magische voorwerpen		
+ring of spell storing		ring van spreukopslag		magic items	magische voorwerpen		
+ring of spell turning		ring van spreukomkering		magic items	magische voorwerpen		
+ring of swimming		ring van zwemmen		magic items	magische voorwerpen		
+ring of the ram		ring van de ram		magic items	magische voorwerpen		
+ring of three wishes		ring van drie wensen		magic items	magische voorwerpen		
+ring of warmth		ring van warmte		magic items	magische voorwerpen		
+ring of water walking		ring van waterloop		magic items	magische voorwerpen		
+ring of x-ray vision		ring van röntgenzicht		magic items	magische voorwerpen		
+robe of eyes		gewaad van ogen		magic items	magische voorwerpen		
+robe of scintillating colours		gewaad van flikkerende kleuren		magic items	magische voorwerpen		
+robe of stars		gewaad van sterren		magic items	magische voorwerpen		
+robe of the archmagi		gewaad van de aartsmagi		magic items	magische voorwerpen		
+robe of useful things		gewaad van nuttige dingen		magic items	magische voorwerpen		
+robe of absorption		gewaad van absorbering		magic items	magische voorwerpen		
+rod of alertness		roede van alterheid		magic items	magische voorwerpen		
+rod of lordly might		roede van voorname macht		magic items	magische voorwerpen		
+rod of the pact keeper		roede van de pactbewaarder		magic items	magische voorwerpen		
+rod of resurrection		roede van herrijzing		magic items	magische voorwerpen		
+rod of rulership		roede van heerschappij		magic items	magische voorwerpen		
+rod of security		roede van veiligheid		magic items	magische voorwerpen		
+rope of climbing		klimtouw		magic items	magische voorwerpen		
+rope of entanglement		touw van verstrikking		magic items	magische voorwerpen		
+saddle of the cavalier		ruiterszadel		magic items	magische voorwerpen		
+scarab of protection		scarabee van bescherming		magic items	magische voorwerpen		
+scimitar of speed		sabel van snelheid		magic items	magische voorwerpen		
+scroll of protection		rol van bescherming		magic items	magische voorwerpen		
+sending stones		zendstenen		magic items	magische voorwerpen		
+sentinel shield		wachtsschild		magic items	magische voorwerpen		
+shield of missile attraction		schild van pijlenaantrekking		magic items	magische voorwerpen		
+slippers of spider climbing		sloffen van spinnengeklim		magic items	magische voorwerpen		
+sovereign glue		koningslijm		magic items	magische voorwerpen		
+spell scroll		spreukenrol		magic items	magische voorwerpen		
+spellguard shield		spreukbewakend schild		magic items	magische voorwerpen		
+sphere of annihilation		bol van vernietiging		magic items	magische voorwerpen		
+staff of charming		staf van bezwering		magic items	magische voorwerpen		
+staff of fire		vuurstaf		magic items	magische voorwerpen		
+staff of frost		vorststaf		magic items	magische voorwerpen		
+staff of healing		staf van heling		magic items	magische voorwerpen		
+staff of power		staf van macht		magic items	magische voorwerpen		
+staff of striking		staf van slagen		magic items	magische voorwerpen		
+staff of swarming insects		staf van zwermende insecten		magic items	magische voorwerpen		
+staff of the adder		staf van de adder		magic items	magische voorwerpen		
+staff of the magi		staf van de mai		magic items	magische voorwerpen		
+staff of the python		staf van de python		magic items	magische voorwerpen		
+staff of the woodlands		staf van het woud		magic items	magische voorwerpen		
+staff of thunder and lightning		staf van donder en bliksem		magic items	magische voorwerpen		
+staff of withering		staf van verwelking		magic items	magische voorwerpen		
+stone of controlling earth elementals		steen van gezag over aarde-elementalen		magic items	magische voorwerpen		
+stone of good luck (luckstone)		steen van geluk (gelukssteen)		magic items	magische voorwerpen		
+sun blade		zonnekling		magic items	magische voorwerpen		
 sword of answering		antwoordzwaard		magic items	magische voorwerpen		
-Answerer	sword of answering	antwoorder		magic items	magische voorwerpen		
-Back talker	sword of answering	tegenspreker		magic items	magische voorwerpen		
-Concluder	sword of answering	afsluiter		magic items	magische voorwerpen		
-Last quip	sword of answering	laatste woord		magic items	magische voorwerpen		
-Rebutter	sword of answering	weerlegger		magic items	magische voorwerpen		
-Replier	sword of answering	verweerder		magic items	magische voorwerpen		
-Retorter	sword of answering	weerwoord		magic items	magische voorwerpen		
-Scather	sword of answering	bespotter		magic items	magische voorwerpen		
-Squelcher	sword of answering	smoorder		magic items	magische voorwerpen		
-Sword of life stealing		zwaard van levensdiefstal		magic items	magische voorwerpen		
-Sword of sharpness		zwaard van scherpte		magic items	magische voorwerpen		
-Sword of vengeance		zwaard van wraak		magic items	magische voorwerpen		
-Sword of wounding		zwaard van verwonding		magic items	magische voorwerpen		
-Talisman of pure good		talisman van puur goed		magic items	magische voorwerpen		
-Talisman of the sphere		talisman van de bol		magic items	magische voorwerpen		
-Talisman of ultimate evil		talisman van ultiem kwaad		magic items	magische voorwerpen		
-Tentacle rod		tentakelroede		magic items	magische voorwerpen		
-Tome of clear thought		boek van heldere gedachte		magic items	magische voorwerpen		
-Tome of leadership and influence		boek van leiding en invloed		magic items	magische voorwerpen		
-Tome of the stilled tongue		boek van de gestilde tong		magic items	magische voorwerpen		
-Tome of understanding		boek van begrip		magic items	magische voorwerpen		
-Trident of fish command		drietand van vissenbeheersing		magic items	magische voorwerpen		
-Universal solvent		universeel oplosmiddel		magic items	magische voorwerpen		
-Vicious weapon		venijnig wapen		magic items	magische voorwerpen		
-Vorpal sword		vorpalen zwaard	gnijpend zwaard, worpel zwaard	magic items	magische voorwerpen		
-Wand of binding		toverstok van binding		magic items	magische voorwerpen		
-Wand of fear		toverstok van angst		magic items	magische voorwerpen		
-Wand of fireballs		toverstok van vuurballen		magic items	magische voorwerpen		
-Wand of lightning bolts		toverstok van bliksemschichten		magic items	magische voorwerpen		
-Wand of magic detection		toverstok van magieontwaring		magic items	magische voorwerpen		
-Wand of magic missiles		toverstok van magische raketten		magic items	magische voorwerpen		
-Wand of paralysis		toverstok van verlamming		magic items	magische voorwerpen		
-Wand of polymorph		toverstok van polymorf		magic items	magische voorwerpen		
-Wand of secrets		toverstok van geheimen		magic items	magische voorwerpen		
-Wand of the war mage		toverstok van de krijgsmagiër		magic items	magische voorwerpen		
-Wand of wonder		toverstok van wonderlijkheden		magic items	magische voorwerpen		
-Weapon of warning		wapen van waarschuwing		magic items	magische voorwerpen		
-Well of many worlds		put van vele werelden		magic items	magische voorwerpen		
-Wind fan		windwaaier		magic items	magische voorwerpen		
-Winged boots		gevleugelde laarzen		magic items	magische voorwerpen		
-Wings of flying		vleugels van vliegen		magic items	magische voorwerpen		
+answerer	sword of answering	antwoorder		magic items	magische voorwerpen		
+back talker	sword of answering	tegenspreker		magic items	magische voorwerpen		
+concluder	sword of answering	afsluiter		magic items	magische voorwerpen		
+last quip	sword of answering	laatste woord		magic items	magische voorwerpen		
+rebutter	sword of answering	weerlegger		magic items	magische voorwerpen		
+replier	sword of answering	verweerder		magic items	magische voorwerpen		
+retorter	sword of answering	weerwoord		magic items	magische voorwerpen		
+scather	sword of answering	bespotter		magic items	magische voorwerpen		
+squelcher	sword of answering	smoorder		magic items	magische voorwerpen		
+sword of life stealing		zwaard van levensdiefstal		magic items	magische voorwerpen		
+sword of sharpness		zwaard van scherpte		magic items	magische voorwerpen		
+sword of vengeance		zwaard van wraak		magic items	magische voorwerpen		
+sword of wounding		zwaard van verwonding		magic items	magische voorwerpen		
+talisman of pure good		talisman van puur goed		magic items	magische voorwerpen		
+talisman of the sphere		talisman van de bol		magic items	magische voorwerpen		
+talisman of ultimate evil		talisman van ultiem kwaad		magic items	magische voorwerpen		
+tentacle rod		tentakelroede		magic items	magische voorwerpen		
+tome of clear thought		boek van heldere gedachte		magic items	magische voorwerpen		
+tome of leadership and influence		boek van leiding en invloed		magic items	magische voorwerpen		
+tome of the stilled tongue		boek van de gestilde tong		magic items	magische voorwerpen		
+tome of understanding		boek van begrip		magic items	magische voorwerpen		
+trident of fish command		drietand van vissenbeheersing		magic items	magische voorwerpen		
+universal solvent		universeel oplosmiddel		magic items	magische voorwerpen		
+vicious weapon		venijnig wapen		magic items	magische voorwerpen		
+vorpal sword		vorpalen zwaard	gnijpend zwaard, worpel zwaard	magic items	magische voorwerpen		
+wand of binding		toverstok van binding		magic items	magische voorwerpen		
+wand of fear		toverstok van angst		magic items	magische voorwerpen		
+wand of fireballs		toverstok van vuurballen		magic items	magische voorwerpen		
+wand of lightning bolts		toverstok van bliksemschichten		magic items	magische voorwerpen		
+wand of magic detection		toverstok van magieontwaring		magic items	magische voorwerpen		
+wand of magic missiles		toverstok van magische raketten		magic items	magische voorwerpen		
+wand of paralysis		toverstok van verlamming		magic items	magische voorwerpen		
+wand of polymorph		toverstok van polymorf		magic items	magische voorwerpen		
+wand of secrets		toverstok van geheimen		magic items	magische voorwerpen		
+wand of the war mage		toverstok van de krijgsmagiër		magic items	magische voorwerpen		
+wand of wonder		toverstok van wonderlijkheden		magic items	magische voorwerpen		
+weapon of warning		wapen van waarschuwing		magic items	magische voorwerpen		
+well of many worlds		put van vele werelden		magic items	magische voorwerpen		
+wind fan		windwaaier		magic items	magische voorwerpen		
+winged boots		gevleugelde laarzen		magic items	magische voorwerpen		
+wings of flying		vleugels van vliegen		magic items	magische voorwerpen		
 aarakocra		aarakocra		monsters and other creatures	monsters en andere wezens		
-Aboleth		Aboleth		monsters and other creatures	monsters en andere wezens		
+aboleth		Aboleth		monsters and other creatures	monsters en andere wezens		
 angels		engelen		monsters and other creatures	monsters en andere wezens		
-Deva	angels	Deva		monsters and other creatures	monsters en andere wezens		
-Planetar	angels	Planetar		monsters and other creatures	monsters en andere wezens		
-Solar	angels	Solar		monsters and other creatures	monsters en andere wezens		
+deva	angels	deva		monsters and other creatures	monsters en andere wezens		
+planetar	angels	planetar		monsters and other creatures	monsters en andere wezens		
+solar	angels	solar		monsters and other creatures	monsters en andere wezens		
 animated objects		levende objecten		monsters and other creatures	monsters en andere wezens		
-Animated Armour	animated objects	Levend Harnas		monsters and other creatures	monsters en andere wezens		
-Flying Sword	animated objects	Vliegend Zwaard		monsters and other creatures	monsters en andere wezens		
-Rug of Smothering	animated objects	Versmorend Tapijt		monsters and other creatures	monsters en andere wezens		
-Ankheg		Ankheg		monsters and other creatures	monsters en andere wezens	ˈɑŋkɛx	
-Azer		Azer		monsters and other creatures	monsters en andere wezens		
-Banshee		Banshee	bean sí	monsters and other creatures	monsters en andere wezens	ˈbɑnʃi	
-Basilisk		Basilisk		monsters and other creatures	monsters en andere wezens		
-Behir		Behir		monsters and other creatures	monsters en andere wezens	beːˈɦir	
-beholders		Ontwaarders		monsters and other creatures	monsters en andere wezens		
-Beholder	beholders	Ontwaarder		monsters and other creatures	monsters en andere wezens		
-Death Tyrant	beholders	Doodstyran		monsters and other creatures	monsters en andere wezens		
-Spectator	beholders	Toeschouwer		monsters and other creatures	monsters en andere wezens		
-blights		Rotten		monsters and other creatures	monsters en andere wezens		
-Needle Blight	blights	Naaldenrot		monsters and other creatures	monsters en andere wezens		
-Twig Blight	blights	Twijgenrot		monsters and other creatures	monsters en andere wezens		
-Vine Blight 	blights	Kruiprot		monsters and other creatures	monsters en andere wezens		
-bugbears		Boekarossen	boemannen, boemberen	monsters and other creatures	monsters en andere wezens		
-Bugbear	bugbears	Boekaros		monsters and other creatures	monsters en andere wezens		
-Bugbear Chief	bugbears	Boekarosleider		monsters and other creatures	monsters en andere wezens		
-Bulette		Bulette		monsters and other creatures	monsters en andere wezens		
-Bullywug		Bulliewug		monsters and other creatures	monsters en andere wezens		
-Cambion		Cambion		monsters and other creatures	monsters en andere wezens		
-Carrion Crawler		Aaskruiper		monsters and other creatures	monsters en andere wezens		
-Centaur		Centaur		monsters and other creatures	monsters en andere wezens		
-Chimera		Chimera		monsters and other creatures	monsters en andere wezens		
-Chuul		Chuulon		monsters and other creatures	monsters en andere wezens		Chuul klinkt naar mijn mening wat minder indrukwekkend in het Nederlands. De uchuulon is een variatie op de chuul, dus bij deze vertaling blijft dat een logische variatie.
-Cloaker		Mantelaar		monsters and other creatures	monsters en andere wezens		
-Cockatrice		Haandraak		monsters and other creatures	monsters en andere wezens		
-Couatl		Couatl		monsters and other creatures	monsters en andere wezens		
-Crawling Claw		Kruipende klauw		monsters and other creatures	monsters en andere wezens		
-Cyclops		Cycloop		monsters and other creatures	monsters en andere wezens		
-Darkmantle		Donkeremantel		monsters and other creatures	monsters en andere wezens		
-Death Knight		Doodsridder		monsters and other creatures	monsters en andere wezens		
-Demilich		Demiliek		monsters and other creatures	monsters en andere wezens		
-demons		Demonen		monsters and other creatures	monsters en andere wezens		
-Baphomet	demons	Bephomet		monsters and other creatures	monsters en andere wezens		
-Demogorgon	demons	Demogorgo		monsters and other creatures	monsters en andere wezens		
-Graz’zt	demons	Graz’zt		monsters and other creatures	monsters en andere wezens		
-Juiblex	demons	Jzhublex		monsters and other creatures	monsters en andere wezens	ˈʒyblɛks	
-Lolth	demons	Lolth		monsters and other creatures	monsters en andere wezens		
-Orcus	demons	Orcus		monsters and other creatures	monsters en andere wezens		
-Yeenoghu	demons	Yeenoghu		monsters and other creatures	monsters en andere wezens		
-Balor	demons	Balor		monsters and other creatures	monsters en andere wezens		
-Barlgura	demons	Barlgura		monsters and other creatures	monsters en andere wezens		
-Chasme	demons	Chasme		monsters and other creatures	monsters en andere wezens		
-Dretch	demons	Drek		monsters and other creatures	monsters en andere wezens		
-Glabrezu	demons	Glabrezu		monsters and other creatures	monsters en andere wezens		
-Goristro	demons	Goristro		monsters and other creatures	monsters en andere wezens		
-Hezrou	demons	Hezrou		monsters and other creatures	monsters en andere wezens		
-Manes	demons	Manes		monsters and other creatures	monsters en andere wezens		Ik vermoed dat de naam manes herleid is van de Romeinse manes, geesten van de doden.
-Marilith	demons	Marilieth		monsters and other creatures	monsters en andere wezens		
-Nalfeshnee	demons	Nalfeshnee		monsters and other creatures	monsters en andere wezens		
-Quasit	demons	Quasiet		monsters and other creatures	monsters en andere wezens		
-Shadow Demon	demons	Schaduwdemon		monsters and other creatures	monsters en andere wezens		
-Vrock	demons	Vrok		monsters and other creatures	monsters en andere wezens		
-Yoghlol	demons	Yoghlol		monsters and other creatures	monsters en andere wezens		
-devils		Duivels		monsters and other creatures	monsters en andere wezens		
-Lemure	devils	Lemuur		monsters and other creatures	monsters en andere wezens		
-Imp	devils	Schelm		monsters and other creatures	monsters en andere wezens		
-Spined Devil	devils	Doornenduivel		monsters and other creatures	monsters en andere wezens		
-Bearded Devil	devils	Bebaarde Duivel		monsters and other creatures	monsters en andere wezens		
-Barbed Devil	devils	Stekelduivel		monsters and other creatures	monsters en andere wezens		
-Chain Devil	devils	Kettingduivel		monsters and other creatures	monsters en andere wezens		
-Bone Devil	devils	Bottenduivel		monsters and other creatures	monsters en andere wezens		
-Horned Devil	devils	Gehoornde Duivel		monsters and other creatures	monsters en andere wezens		
-Erinyes	devils	Erinyen		monsters and other creatures	monsters en andere wezens		
-Ice Devil	devils	IJsduivel		monsters and other creatures	monsters en andere wezens		
-Pit Fiend	devils	Dieptevijnd		monsters and other creatures	monsters en andere wezens		
-Duke/Duchess	devils	Hertog/Hertogin		monsters and other creatures	monsters en andere wezens		
-Archduke/Archduchess	devils	Aartshertog/Aartshertogin		monsters and other creatures	monsters en andere wezens		
-dinosaurs		Dinosauriërs		monsters and other creatures	monsters en andere wezens		
-Allosaurus	dinosaurs	Allosaurus		monsters and other creatures	monsters en andere wezens		
-Ankylosaurus	dinosaurs	Ankylosaurus		monsters and other creatures	monsters en andere wezens		
-Plesiosaurus	dinosaurs	Plesiosaurus		monsters and other creatures	monsters en andere wezens		
-Pteranodon	dinosaurs	Pteranodon		monsters and other creatures	monsters en andere wezens		
-Triceratops	dinosaurs	Triceratops		monsters and other creatures	monsters en andere wezens		
-Tyrannosaurus Rex	dinosaurs	Tyrannosaurus Rex		monsters and other creatures	monsters en andere wezens		
+animated armour	animated objects	levend harnas		monsters and other creatures	monsters en andere wezens		
+flying sword	animated objects	vliegend zwaard		monsters and other creatures	monsters en andere wezens		
+rug of smothering	animated objects	versmorend tapijt		monsters and other creatures	monsters en andere wezens		
+ankheg		ankheg		monsters and other creatures	monsters en andere wezens	ˈɑŋkɛx	
+azer		azer		monsters and other creatures	monsters en andere wezens		
+banshee		banshee	bean sí	monsters and other creatures	monsters en andere wezens	ˈbɑnʃi	
+basilisk		basilisk		monsters and other creatures	monsters en andere wezens		
+behir		behir		monsters and other creatures	monsters en andere wezens	beːˈɦir	
+beholders		ontwaarders		monsters and other creatures	monsters en andere wezens		
+beholder	beholders	ontwaarder		monsters and other creatures	monsters en andere wezens		
+death tyrant	beholders	doodstyran		monsters and other creatures	monsters en andere wezens		
+spectator	beholders	toeschouwer		monsters and other creatures	monsters en andere wezens		
+blights		rotten		monsters and other creatures	monsters en andere wezens		
+needle blight	blights	naaldenrot		monsters and other creatures	monsters en andere wezens		
+twig blight	blights	twijgenrot		monsters and other creatures	monsters en andere wezens		
+vine blight	blights	kruiprot		monsters and other creatures	monsters en andere wezens		
+bugbears		boekarossen	boemannen, boemberen	monsters and other creatures	monsters en andere wezens		
+bugbear	bugbears	boekaros		monsters and other creatures	monsters en andere wezens		
+bugbear chief	bugbears	boekarosleider		monsters and other creatures	monsters en andere wezens		
+bulette		bulette		monsters and other creatures	monsters en andere wezens		
+bullywug		bulliewug		monsters and other creatures	monsters en andere wezens		
+cambion		cambion		monsters and other creatures	monsters en andere wezens		
+carrion crawler		aaskruiper		monsters and other creatures	monsters en andere wezens		
+centaur		centaur		monsters and other creatures	monsters en andere wezens		
+chimera		chimera		monsters and other creatures	monsters en andere wezens		
+chuul		chuulon		monsters and other creatures	monsters en andere wezens		Chuul klinkt naar mijn mening wat minder indrukwekkend in het Nederlands. De uchuulon is een variatie op de chuul, dus bij deze vertaling blijft dat een logische variatie.
+cloaker		mantelaar		monsters and other creatures	monsters en andere wezens		
+cockatrice		haandraak		monsters and other creatures	monsters en andere wezens		
+couatl		couatl		monsters and other creatures	monsters en andere wezens		
+crawling claw		kruipende klauw		monsters and other creatures	monsters en andere wezens		
+cyclops		cycloop		monsters and other creatures	monsters en andere wezens		
+darkmantle		donkeremantel		monsters and other creatures	monsters en andere wezens		
+death knight		doodsridder		monsters and other creatures	monsters en andere wezens		
+demilich		demiliek		monsters and other creatures	monsters en andere wezens		
+demons		demonen		monsters and other creatures	monsters en andere wezens		
+baphomet	demons	bephomet		monsters and other creatures	monsters en andere wezens		
+demogorgon	demons	demogorgo		monsters and other creatures	monsters en andere wezens		
+graz’zt	demons	graz’zt		monsters and other creatures	monsters en andere wezens		
+juiblex	demons	jzhublex		monsters and other creatures	monsters en andere wezens	ˈʒyblɛks	
+lolth	demons	lolth		monsters and other creatures	monsters en andere wezens		
+orcus	demons	orcus		monsters and other creatures	monsters en andere wezens		
+yeenoghu	demons	yeenoghu		monsters and other creatures	monsters en andere wezens		
+balor	demons	balor		monsters and other creatures	monsters en andere wezens		
+barlgura	demons	barlgura		monsters and other creatures	monsters en andere wezens		
+chasme	demons	chasme		monsters and other creatures	monsters en andere wezens		
+dretch	demons	drek		monsters and other creatures	monsters en andere wezens		
+glabrezu	demons	glabrezu		monsters and other creatures	monsters en andere wezens		
+goristro	demons	goristro		monsters and other creatures	monsters en andere wezens		
+hezrou	demons	hezrou		monsters and other creatures	monsters en andere wezens		
+manes	demons	manes		monsters and other creatures	monsters en andere wezens		Ik vermoed dat de naam manes herleid is van de Romeinse manes, geesten van de doden.
+marilith	demons	marilieth		monsters and other creatures	monsters en andere wezens		
+nalfeshnee	demons	nalfeshnee		monsters and other creatures	monsters en andere wezens		
+quasit	demons	quasiet		monsters and other creatures	monsters en andere wezens		
+shadow demon	demons	schaduwdemon		monsters and other creatures	monsters en andere wezens		
+vrock	demons	vrok		monsters and other creatures	monsters en andere wezens		
+yoghlol	demons	yoghlol		monsters and other creatures	monsters en andere wezens		
+devils		duivels		monsters and other creatures	monsters en andere wezens		
+lemure	devils	lemuur		monsters and other creatures	monsters en andere wezens		
+imp	devils	schelm		monsters and other creatures	monsters en andere wezens		
+spined devil	devils	doornenduivel		monsters and other creatures	monsters en andere wezens		
+bearded devil	devils	bebaarde duivel		monsters and other creatures	monsters en andere wezens		
+barbed devil	devils	stekelduivel		monsters and other creatures	monsters en andere wezens		
+chain devil	devils	kettingduivel		monsters and other creatures	monsters en andere wezens		
+bone devil	devils	bottenduivel		monsters and other creatures	monsters en andere wezens		
+horned devil	devils	gehoornde duivel		monsters and other creatures	monsters en andere wezens		
+erinyes	devils	erinyen		monsters and other creatures	monsters en andere wezens		
+ice devil	devils	ijsduivel		monsters and other creatures	monsters en andere wezens		
+pit fiend	devils	dieptevijnd		monsters and other creatures	monsters en andere wezens		
+duke/duchess	devils	hertog/hertogin		monsters and other creatures	monsters en andere wezens		
+archduke/archduchess	devils	aartshertog/aartshertogin		monsters and other creatures	monsters en andere wezens		
+dinosaurs		dinosauriërs		monsters and other creatures	monsters en andere wezens		
+allosaurus	dinosaurs	allosaurus		monsters and other creatures	monsters en andere wezens		
+ankylosaurus	dinosaurs	ankylosaurus		monsters and other creatures	monsters en andere wezens		
+plesiosaurus	dinosaurs	plesiosaurus		monsters and other creatures	monsters en andere wezens		
+pteranodon	dinosaurs	pteranodon		monsters and other creatures	monsters en andere wezens		
+triceratops	dinosaurs	triceratops		monsters and other creatures	monsters en andere wezens		
+tyrannosaurus rex	dinosaurs	tyrannosaurus rex		monsters and other creatures	monsters en andere wezens		
 displacer beast		verschuivend beest		monsters and other creatures	monsters en andere wezens		
-Doppelganger		Doppelgänger		monsters and other creatures	monsters en andere wezens		
-Dracolich		Dracoliek		monsters and other creatures	monsters en andere wezens		
-Shadow Dragon		Schaduwdraak		monsters and other creatures	monsters en andere wezens		
+doppelganger		doppelgänger		monsters and other creatures	monsters en andere wezens		
+dracolich		dracoliek		monsters and other creatures	monsters en andere wezens		
+shadow dragon		schaduwdraak		monsters and other creatures	monsters en andere wezens		
 dragons		drakan		monsters and other creatures	monsters en andere wezens		
-Ancient … Dragon	dragons	… Oerdraak		monsters and other creatures	monsters en andere wezens		
-Adult … Dragon	dragons	Volwassen … Draak		monsters and other creatures	monsters en andere wezens		
-Young … Dragon	dragons	Jonge … Draak		monsters and other creatures	monsters en andere wezens		
-… Dragon Wyrmling	dragons	… Wyrmeling		monsters and other creatures	monsters en andere wezens		
-Black Dragon	dragons	Zwarte Draak		monsters and other creatures	monsters en andere wezens		
-Blue Dragon	dragons	Blauwe Draak		monsters and other creatures	monsters en andere wezens		
-Green Dragon	dragons	Groene Draak		monsters and other creatures	monsters en andere wezens		
-Red Dragon	dragons	Rode Draak		monsters and other creatures	monsters en andere wezens		
-White Dragon	dragons	Witte Draak		monsters and other creatures	monsters en andere wezens		
-Brass Dragon	dragons	Messingen Draak		monsters and other creatures	monsters en andere wezens		
-Bronze Dragon	dragons	Bronzen Draak		monsters and other creatures	monsters en andere wezens		
-Copper Dragon	dragons	Koperen Draak		monsters and other creatures	monsters en andere wezens		
-Gold Dragon	dragons	Gouden Draak		monsters and other creatures	monsters en andere wezens		
-Silver Dragon	dragons	Zilveren Draak		monsters and other creatures	monsters en andere wezens		
-Dragon Turtle		Drakenschildpad		monsters and other creatures	monsters en andere wezens		
-Drider		Drin		monsters and other creatures	monsters en andere wezens		
-Dryad		Dryade		monsters and other creatures	monsters en andere wezens		
-Duergar		Duargar		monsters and other creatures	monsters en andere wezens	ˈdʋɑrχɑr	
-elementals		Elementalen		monsters and other creatures	monsters en andere wezens		
-Air Elemental	elementals	Luchtelementaal		monsters and other creatures	monsters en andere wezens		
-Earth Elemental	elementals	Aarde-elementaal		monsters and other creatures	monsters en andere wezens		
-Fire Elemental	elementals	Vuurelementaal		monsters and other creatures	monsters en andere wezens		
-Water Elemental	elementals	Waterelementaal		monsters and other creatures	monsters en andere wezens		
-drow		Drouw		monsters and other creatures	monsters en andere wezens		
-Drow Elite Warrior	drow	Drouw Elite Krijger		monsters and other creatures	monsters en andere wezens		
-Drow Mage	drow	Drouw Magiër	Drouw Tovenaar	monsters and other creatures	monsters en andere wezens		
-Drow Priestess of Lolth	drow	Drouw Priesteres van Lolth		monsters and other creatures	monsters en andere wezens		
-Empyrean		Empyreum		monsters and other creatures	monsters en andere wezens		
-Ettercap		Etterkap		monsters and other creatures	monsters en andere wezens		
-Ettin		Ettin		monsters and other creatures	monsters en andere wezens		
-Faerie Dragon		Feeëndraak		monsters and other creatures	monsters en andere wezens		
-Flameskulll		Vlammenschedel		monsters and other creatures	monsters en andere wezens		
-Flumph		Flumph		monsters and other creatures	monsters en andere wezens		
-Fomorian		Fomoriaan		monsters and other creatures	monsters en andere wezens		
-fungi		Paddenstoelen		monsters and other creatures	monsters en andere wezens		
-Gas Spore	fungi	Gasspore		monsters and other creatures	monsters en andere wezens		
-Shrieker	fungi	Krijser		monsters and other creatures	monsters en andere wezens		
-Violet Fungus	fungi	Paarse paddenstoel		monsters and other creatures	monsters en andere wezens		
-Galeb Duhr		Galeb Duhr		monsters and other creatures	monsters en andere wezens		
-Gargoyle		Schrikbeeld		monsters and other creatures	monsters en andere wezens		Schrikbeeld is geen echt begrip. Waterspuwer zou de conventionele vertaling zijn, maar is gek aangezien de monsters geen water spuwen.
-genies		Djinns		monsters and other creatures	monsters en andere wezens		
-Dao	genies	Dao		monsters and other creatures	monsters en andere wezens		
-Djinni	genies	Djinni		monsters and other creatures	monsters en andere wezens		
-Efreeti	genies	Efreeti		monsters and other creatures	monsters en andere wezens		
-Marid	genies	Marid		monsters and other creatures	monsters en andere wezens		
-Ghost		Spook		monsters and other creatures	monsters en andere wezens		
-ghouls		Ghul		monsters and other creatures	monsters en andere wezens		
-Ghast	ghouls	Ghaste		monsters and other creatures	monsters en andere wezens		
-Ghoul	ghouls	Ghul		monsters and other creatures	monsters en andere wezens		
-giants		Reuzen		monsters and other creatures	monsters en andere wezens		
-Cloud Giant	giants	Wolkenreus		monsters and other creatures	monsters en andere wezens		
-Fire Giant	giants	Vuurreus		monsters and other creatures	monsters en andere wezens		
-Frost Giant	giants	IJsreus		monsters and other creatures	monsters en andere wezens		
-Hill Giant	giants	Heuvelreus		monsters and other creatures	monsters en andere wezens		
-Stone Giant	giants	Steenreus		monsters and other creatures	monsters en andere wezens		
-Storm Giant	giants	Stormreus		monsters and other creatures	monsters en andere wezens		
-Gibbering Mouther		Brabbelemonder		monsters and other creatures	monsters en andere wezens		
+chromatic dragons	dragons	chromatische draken		monsters and other creatures	monsters en andere wezens		
+metallic dragons	dragons	metalen draken		monsters and other creatures	monsters en andere wezens		
+ancient black dragon	dragons	zwarte oerdraak		monsters and other creatures	monsters en andere wezens		
+adult black dragon	dragons	volwassen zwarte draak		monsters and other creatures	monsters en andere wezens		
+young black dragon	dragons	jonge zwarte draak		monsters and other creatures	monsters en andere wezens		
+black dragon wyrmling	dragons	wyrmeling van zwarte draak		monsters and other creatures	monsters en andere wezens		
+ancient blue dragon	dragons	blauwe oerdraak		monsters and other creatures	monsters en andere wezens		
+adult blue dragon	dragons	volwassen blauwe draak		monsters and other creatures	monsters en andere wezens		
+young blue dragon	dragons	jonge blauwe draak		monsters and other creatures	monsters en andere wezens		
+blue dragon wyrmling	dragons	wyrmeling van blauwe draak		monsters and other creatures	monsters en andere wezens		
+ancient green dragon	dragons	groene oerdraak		monsters and other creatures	monsters en andere wezens		
+adult green dragon	dragons	volwassen groene draak		monsters and other creatures	monsters en andere wezens		
+young green dragon	dragons	jonge groene draak		monsters and other creatures	monsters en andere wezens		
+green dragon wyrmling	dragons	wyrmeling van groene draak		monsters and other creatures	monsters en andere wezens		
+ancient red dragon	dragons	rode oerdraak		monsters and other creatures	monsters en andere wezens		
+adult red dragon	dragons	volwassen rode draak		monsters and other creatures	monsters en andere wezens		
+young red dragon	dragons	jonge rode draak		monsters and other creatures	monsters en andere wezens		
+red dragon wyrmling	dragons	wyrmeling van rode draak		monsters and other creatures	monsters en andere wezens		
+ancient white dragon	dragons	witte oerdraak		monsters and other creatures	monsters en andere wezens		
+adult white dragon	dragons	volwassen witte draak		monsters and other creatures	monsters en andere wezens		
+young white dragon	dragons	jonge witte draak		monsters and other creatures	monsters en andere wezens		
+white dragon wyrmling	dragons	wyrmeling van witte draak		monsters and other creatures	monsters en andere wezens		
+ancient brass dragon	dragons	messingen oerdraak		monsters and other creatures	monsters en andere wezens		
+adult brass dragon	dragons	volwassen messingen draak		monsters and other creatures	monsters en andere wezens		
+young brass dragon	dragons	jonge messingen draak		monsters and other creatures	monsters en andere wezens		
+brass dragon wyrmling	dragons	wyrmeling van messingen draak		monsters and other creatures	monsters en andere wezens		
+ancient bronze dragon	dragons	bronzen oerdraak		monsters and other creatures	monsters en andere wezens		
+adult bronze dragon	dragons	volwassen bronzen draak		monsters and other creatures	monsters en andere wezens		
+young bronze dragon	dragons	jonge bronzen draak		monsters and other creatures	monsters en andere wezens		
+bronze dragon wyrmling	dragons	wyrmeling van bronzen draak		monsters and other creatures	monsters en andere wezens		
+ancient copper dragon	dragons	koperen oerdraak		monsters and other creatures	monsters en andere wezens		
+adult copper dragon	dragons	volwassen koperen draak		monsters and other creatures	monsters en andere wezens		
+young copper dragon	dragons	jonge koperen draak		monsters and other creatures	monsters en andere wezens		
+copper dragon wyrmling	dragons	wyrmeling van koperen draak		monsters and other creatures	monsters en andere wezens		
+ancient gold dragon wyrmling	dragons	gouden oerdraak		monsters and other creatures	monsters en andere wezens		
+adult gold dragon wyrmling	dragons	volwassen gouden draak		monsters and other creatures	monsters en andere wezens		
+young gold dragon	dragons	jonge gouden draak		monsters and other creatures	monsters en andere wezens		
+gold dragon wyrmling	dragons	wyrmeling van gouden draak		monsters and other creatures	monsters en andere wezens		
+ancient silver dragon	dragons	zilveren oerdraak		monsters and other creatures	monsters en andere wezens		
+adult silver dragon	dragons	volwassen zilveren draak		monsters and other creatures	monsters en andere wezens		
+young silver dragon	dragons	jonge zilveren draak		monsters and other creatures	monsters en andere wezens		
+silver dragon wyrmling	dragons	wyrmeling van zilveren draak		monsters and other creatures	monsters en andere wezens		
+dragon turtle		drakenschildpad		monsters and other creatures	monsters en andere wezens		
+drider		drin		monsters and other creatures	monsters en andere wezens		
+dryad		dryade		monsters and other creatures	monsters en andere wezens		
+duergar		duargar		monsters and other creatures	monsters en andere wezens	ˈdʋɑrχɑr	
+elementals		elementalen		monsters and other creatures	monsters en andere wezens		
+air elemental	elementals	luchtelementaal		monsters and other creatures	monsters en andere wezens		
+earth elemental	elementals	aarde-elementaal		monsters and other creatures	monsters en andere wezens		
+fire elemental	elementals	vuurelementaal		monsters and other creatures	monsters en andere wezens		
+water elemental	elementals	waterelementaal		monsters and other creatures	monsters en andere wezens		
+drow		drouw		monsters and other creatures	monsters en andere wezens		
+drow elite warrior	drow	drouw elite krijger		monsters and other creatures	monsters en andere wezens		
+drow mage	drow	drouw magiër	Drouw Tovenaar	monsters and other creatures	monsters en andere wezens		
+drow priestess of lolth	drow	drouw priesteres van lolth		monsters and other creatures	monsters en andere wezens		
+empyrean		empyreum		monsters and other creatures	monsters en andere wezens		
+ettercap		etterkap		monsters and other creatures	monsters en andere wezens		
+ettin		ettin		monsters and other creatures	monsters en andere wezens		
+faerie dragon		feeëndraak		monsters and other creatures	monsters en andere wezens		
+flameskulll		vlammenschedel		monsters and other creatures	monsters en andere wezens		
+flumph		flumph		monsters and other creatures	monsters en andere wezens		
+fomorian		fomoriaan		monsters and other creatures	monsters en andere wezens		
+fungi		paddenstoelen		monsters and other creatures	monsters en andere wezens		
+gas spore	fungi	gasspore		monsters and other creatures	monsters en andere wezens		
+shrieker	fungi	krijser		monsters and other creatures	monsters en andere wezens		
+violet fungus	fungi	paarse paddenstoel		monsters and other creatures	monsters en andere wezens		
+galeb duhr		galeb duhr		monsters and other creatures	monsters en andere wezens		
+gargoyle		schrikbeeld		monsters and other creatures	monsters en andere wezens		Schrikbeeld is geen echt begrip. Waterspuwer zou de conventionele vertaling zijn, maar is gek aangezien de monsters geen water spuwen.
+genies		djinns		monsters and other creatures	monsters en andere wezens		
+dao	genies	dao		monsters and other creatures	monsters en andere wezens		
+djinni	genies	djinni		monsters and other creatures	monsters en andere wezens		
+efreeti	genies	efreeti		monsters and other creatures	monsters en andere wezens		
+marid	genies	marid		monsters and other creatures	monsters en andere wezens		
+ghost		spook		monsters and other creatures	monsters en andere wezens		
+ghouls		ghul		monsters and other creatures	monsters en andere wezens		
+ghast	ghouls	ghaste		monsters and other creatures	monsters en andere wezens		
+ghoul	ghouls	ghul		monsters and other creatures	monsters en andere wezens		
+giants		reuzen		monsters and other creatures	monsters en andere wezens		
+cloud giant	giants	wolkenreus		monsters and other creatures	monsters en andere wezens		
+fire giant	giants	vuurreus		monsters and other creatures	monsters en andere wezens		
+frost giant	giants	ijsreus		monsters and other creatures	monsters en andere wezens		
+hill giant	giants	heuvelreus		monsters and other creatures	monsters en andere wezens		
+stone giant	giants	steenreus		monsters and other creatures	monsters en andere wezens		
+storm giant	giants	stormreus		monsters and other creatures	monsters en andere wezens		
+gibbering mouther		brabbelemonder		monsters and other creatures	monsters en andere wezens		
 gith		gith		monsters and other creatures	monsters en andere wezens		
-Githyanki	gith	Githyanki		monsters and other creatures	monsters en andere wezens		
-Githzerai	gith	Githzerai		monsters and other creatures	monsters en andere wezens		
+githyanki	gith	githyanki		monsters and other creatures	monsters en andere wezens		
+githzerai	gith	githzerai		monsters and other creatures	monsters en andere wezens		
 gnolls		gnol	kabol	monsters and other creatures	monsters en andere wezens		Gnoll is een samenstelling van gnome en troll, wat past bij de oorspronkelijke beschrijving van gnolls. Later kregen de wezens meer hyena-achtige kenmerken, waardoor de term niet veel meer met het wezen te maken heeft.
-Gnoll	gnolls	Gnol		monsters and other creatures	monsters en andere wezens		
-Gnoll Pack Lord	gnolls	Gnol Roedeleider		monsters and other creatures	monsters en andere wezens		
-Gnoll Fang of Yeenoghu	gnolls	Gnol tand van Yeenoghu		monsters and other creatures	monsters en andere wezens		
-Deep Gnome (Svirfneblin)		Diepkabouters (Svirfneblin)		monsters and other creatures	monsters en andere wezens		
-goblins		Gobbelins		monsters and other creatures	monsters en andere wezens		
-Goblin	goblins	Gobbelin		monsters and other creatures	monsters en andere wezens		
-Goblin Boss	goblins	Gobbelinleider		monsters and other creatures	monsters en andere wezens		
+gnoll	gnolls	gnol		monsters and other creatures	monsters en andere wezens		
+gnoll pack lord	gnolls	gnol roedeleider		monsters and other creatures	monsters en andere wezens		
+gnoll fang of Yeenoghu	gnolls	gnol tand van yeenoghu		monsters and other creatures	monsters en andere wezens		
+deep gnome (svirfneblin)		diepkabouters (svirfneblin)		monsters and other creatures	monsters en andere wezens		
+goblins		gobbelins		monsters and other creatures	monsters en andere wezens		
+goblin	goblins	gobbelin		monsters and other creatures	monsters en andere wezens		
+goblin boss	goblins	gobbelinleider		monsters and other creatures	monsters en andere wezens		
 golems		golems		monsters and other creatures	monsters en andere wezens		
-Clay Golem	golems	Kleigolem		monsters and other creatures	monsters en andere wezens		
-Flesh Golem	golems	Vleesgolem		monsters and other creatures	monsters en andere wezens		
-Iron Golem	golems	IJzergolem		monsters and other creatures	monsters en andere wezens		
-Stone Golem	golems	Steengolem		monsters and other creatures	monsters en andere wezens		
-Gorgon		Gorgo		monsters and other creatures	monsters en andere wezens		
-Grell		Grel		monsters and other creatures	monsters en andere wezens		
-Grick		Griek		monsters and other creatures	monsters en andere wezens		
-Griffon		Griffioen		monsters and other creatures	monsters en andere wezens		
-Grimlock		Grimlok		monsters and other creatures	monsters en andere wezens		
+clay golem	golems	kleigolem		monsters and other creatures	monsters en andere wezens		
+flesh golem	golems	vleesgolem		monsters and other creatures	monsters en andere wezens		
+iron golem	golems	ijzergolem		monsters and other creatures	monsters en andere wezens		
+stone golem	golems	steengolem		monsters and other creatures	monsters en andere wezens		
+gorgon		gorgo		monsters and other creatures	monsters en andere wezens		
+grell		grel		monsters and other creatures	monsters en andere wezens		
+grick		griek		monsters and other creatures	monsters en andere wezens		
+griffon		griffioen		monsters and other creatures	monsters en andere wezens		
+grimlock		grimlok		monsters and other creatures	monsters en andere wezens		
 hags		kollen		monsters and other creatures	monsters en andere wezens		
-Green Hag	hags	Groene kol		monsters and other creatures	monsters en andere wezens		
-Night Hag	hags	Nachtkol		monsters and other creatures	monsters en andere wezens		
-Sea Hag	hags	Zeekol		monsters and other creatures	monsters en andere wezens		
-Half-Dragon		Halfdraak		monsters and other creatures	monsters en andere wezens		
-Harpy		Harpij		monsters and other creatures	monsters en andere wezens		
-Hell Hound		Hellehond		monsters and other creatures	monsters en andere wezens		
-Helmed Horror		Helmverschrikking		monsters and other creatures	monsters en andere wezens		
-Hippogriff		Hippogrief		monsters and other creatures	monsters en andere wezens		
+green hag	hags	groene kol		monsters and other creatures	monsters en andere wezens		
+night hag	hags	nachtkol		monsters and other creatures	monsters en andere wezens		
+sea hag	hags	zeekol		monsters and other creatures	monsters en andere wezens		
+half-dragon		halfdraak		monsters and other creatures	monsters en andere wezens		
+harpy		harpij		monsters and other creatures	monsters en andere wezens		
+hell hound		hellehond		monsters and other creatures	monsters en andere wezens		
+helmed horror		helmverschrikking		monsters and other creatures	monsters en andere wezens		
+hippogriff		hippogrief		monsters and other creatures	monsters en andere wezens		
 hobgoblins		hobgobbelins		monsters and other creatures	monsters en andere wezens		
-Hobgoblin	hobgoblins	hobgobbelin		monsters and other creatures	monsters en andere wezens		
-Hobgoblin Captain	hobgoblins	Hobgobbelin Kapitein		monsters and other creatures	monsters en andere wezens		
-Hobgoblin Warlord	hobgoblins	Hobgobbelin Krijgsmeester		monsters and other creatures	monsters en andere wezens		
-Homunculus		Homunculus		monsters and other creatures	monsters en andere wezens		
-Hook Horror		Hakengruwel		monsters and other creatures	monsters en andere wezens		
-Hydra		Hydra		monsters and other creatures	monsters en andere wezens		
-Intellect Devourer		Verstandsverslinder		monsters and other creatures	monsters en andere wezens		
-Invisible Stalker		Onzichtbare Volger		monsters and other creatures	monsters en andere wezens		
-Jackalwere		Jakhalzeweer	jakhalzer	monsters and other creatures	monsters en andere wezens		De schijnbare etymologie van jackalwere lijkt te zijn dat het bestaat uit de woorden jackal (uiteraard) en het oud-germaanse wer, man (als in werewolf). Jakhalsweer ligt wat ongemakkelijk op de tong, dus de twee vertalingen zijn alternatieven.
-Kenku		kenku		monsters and other creatures	monsters en andere wezens	ˈkɛŋku	
-kobolds		Kobolden		monsters and other creatures	monsters en andere wezens		
-Winged Kobold	kobolds	Gevleugelde Kobold		monsters and other creatures	monsters en andere wezens		
-Kobold	kobolds	Kobold		monsters and other creatures	monsters en andere wezens		
-Kraken		Kraken		monsters and other creatures	monsters en andere wezens		
-kuo-toa		Kuo-Toa		monsters and other creatures	monsters en andere wezens		
-Kuo-Toa	kuo-toa	Kuo-Toa		monsters and other creatures	monsters en andere wezens		
-Kuo-Toa Archpriest	kuo-toa	Kuo-Toa Aartspriester		monsters and other creatures	monsters en andere wezens		
-Kua-Toa Whip	kuo-toa	Kuo-Toa Zweep		monsters and other creatures	monsters en andere wezens		
-Lamia		Lamia		monsters and other creatures	monsters en andere wezens		
-Lich		Liek	krong, reeuw	monsters and other creatures	monsters en andere wezens		Lich komt van een Oud-Engels woord voor lijk. In het Engels is de betekenis van het woord veranderd naar een spookverschijning, in het Nederlands niet. Krong en reeuw zij een moderne spelling van Oud-Nederlands woorden voor lijk. Liek is een vertaling die herkenbaarheid behoudt.
-lizardfolk		Hagedissenvolk		monsters and other creatures	monsters en andere wezens		
-Lizardfolk	lizardfolk	Hagedissenvolk		monsters and other creatures	monsters en andere wezens		
-Lizardfolk Shaman	lizardfolk	Hagedissenvolk Sjamaan		monsters and other creatures	monsters en andere wezens		
-Lizard King/King	lizardfolk	Hagedissenkoning/koningin		monsters and other creatures	monsters en andere wezens		
-lycantropes		Lycantropen		monsters and other creatures	monsters en andere wezens		
-Werebear	lycantropes	Weerbeer		monsters and other creatures	monsters en andere wezens		
-Wereboar	lycantropes	Weerzwijn		monsters and other creatures	monsters en andere wezens		
-Wererat	lycantropes	Weerrat		monsters and other creatures	monsters en andere wezens		
-Weretiger	lycantropes	Weertijger		monsters and other creatures	monsters en andere wezens		
-Werewolf	lycantropes	Weerwolf		monsters and other creatures	monsters en andere wezens		
-Magmin		Magmin	Barlemanje	monsters and other creatures	monsters en andere wezens		De barlemanje is een Nederlands vuurmannetje.
-Manticore		Manticore		monsters and other creatures	monsters en andere wezens		
-Medusa		Medusa		monsters and other creatures	monsters en andere wezens		
-mephits		Mefieten		monsters and other creatures	monsters en andere wezens		
-Dust Mephit	mephits	Stofmefiet		monsters and other creatures	monsters en andere wezens		
-Ice Mephit	mephits	IJsmefiet		monsters and other creatures	monsters en andere wezens		
-Magma Mephit	mephits	Magmameiet		monsters and other creatures	monsters en andere wezens		
-Mud Mephit	mephits	Moddermefiet		monsters and other creatures	monsters en andere wezens		
-Smoke Mephit	mephits	Rookmefiet		monsters and other creatures	monsters en andere wezens		
-Steam Mephit	mephits	Stoommefiet		monsters and other creatures	monsters en andere wezens		
-Merfolk		Meervolk		monsters and other creatures	monsters en andere wezens		
-Merrow		Meerroe		monsters and other creatures	monsters en andere wezens		
-Mimic		Mimiek		monsters and other creatures	monsters en andere wezens		
-Mind Flayer		Zielenveller		monsters and other creatures	monsters en andere wezens		
-Minotaur		Minotauros		monsters and other creatures	monsters en andere wezens		
-modrons		Modronen		monsters and other creatures	monsters en andere wezens		
-Monodrone	modrons	Monodroon		monsters and other creatures	monsters en andere wezens		
-Duodrone	modrons	Duodroon		monsters and other creatures	monsters en andere wezens		
-Tridrone	modrons	Tridroon		monsters and other creatures	monsters en andere wezens		
-Quadrone	modrons	Quadroon		monsters and other creatures	monsters en andere wezens		
-Pentadrone	modrons	Pentadroon		monsters and other creatures	monsters en andere wezens		
-Mummies		Mummies		monsters and other creatures	monsters en andere wezens		
-myconids		Myconiden		monsters and other creatures	monsters en andere wezens		
-Myconid Sprout	myconids	Myconidescheut		monsters and other creatures	monsters en andere wezens		
-Quaggoth Spore Servant	myconids	Quaggoth Sporendienaar		monsters and other creatures	monsters en andere wezens		
-Myconid Adult	myconids	Myconide Volwassene		monsters and other creatures	monsters en andere wezens		
-Myconid Sovereign	myconids	Myconide Vorst		monsters and other creatures	monsters en andere wezens		
-nagas		Naga’s		monsters and other creatures	monsters en andere wezens		
-Bone Naga	nagas	Bottennaga		monsters and other creatures	monsters en andere wezens		
-Spirit Naga	nagas	Geestennaga		monsters and other creatures	monsters en andere wezens		
-Guardian Naga	nagas	Beschermernaga		monsters and other creatures	monsters en andere wezens		
-Nightmare		Nachtmerrie		monsters and other creatures	monsters en andere wezens		
-Nothic		Nothiek		monsters and other creatures	monsters en andere wezens		
+hobgoblin	hobgoblins	hobgobbelin		monsters and other creatures	monsters en andere wezens		
+hobgoblin captain	hobgoblins	hobgobbelin kapitein		monsters and other creatures	monsters en andere wezens		
+hobgoblin warlord	hobgoblins	hobgobbelin krijgsmeester		monsters and other creatures	monsters en andere wezens		
+homunculus		homunculus		monsters and other creatures	monsters en andere wezens		
+hook horror		hakengruwel		monsters and other creatures	monsters en andere wezens		
+hydra		hydra		monsters and other creatures	monsters en andere wezens		
+intellect devourer		verstandsverslinder		monsters and other creatures	monsters en andere wezens		
+invisible stalker		onzichtbare volger		monsters and other creatures	monsters en andere wezens		
+jackalwere		jakhalzeweer	jakhalzer	monsters and other creatures	monsters en andere wezens		De schijnbare etymologie van jackalwere lijkt te zijn dat het bestaat uit de woorden jackal (uiteraard) en het oud-germaanse wer, man (als in werewolf). Jakhalsweer ligt wat ongemakkelijk op de tong, dus de twee vertalingen zijn alternatieven.
+kenku		kenku		monsters and other creatures	monsters en andere wezens	ˈkɛŋku	
+kobolds		kobolden		monsters and other creatures	monsters en andere wezens		
+winged kobold	kobolds	gevleugelde kobold		monsters and other creatures	monsters en andere wezens		
+kobold	kobolds	kobold		monsters and other creatures	monsters en andere wezens		
+kraken		kraken		monsters and other creatures	monsters en andere wezens		
+kuo-toa		kuo-toa		monsters and other creatures	monsters en andere wezens		
+kuo-toa	kuo-toa	kuo-toa		monsters and other creatures	monsters en andere wezens		
+kuo-toa archpriest	kuo-toa	kuo-toa aartspriester		monsters and other creatures	monsters en andere wezens		
+kua-toa whip	kuo-toa	kuo-toa zweep		monsters and other creatures	monsters en andere wezens		
+lamia		lamia		monsters and other creatures	monsters en andere wezens		
+lich		liek	krong, reeuw	monsters and other creatures	monsters en andere wezens		Lich komt van een Oud-Engels woord voor lijk. In het Engels is de betekenis van het woord veranderd naar een spookverschijning, in het Nederlands niet. Krong en reeuw zij een moderne spelling van Oud-Nederlands woorden voor lijk. Liek is een vertaling die herkenbaarheid behoudt.
+lizardfolk		hagedissenvolk		monsters and other creatures	monsters en andere wezens		
+lizardfolk	lizardfolk	hagedissenvolk		monsters and other creatures	monsters en andere wezens		
+lizardfolk shaman	lizardfolk	hagedissenvolk sjamaan		monsters and other creatures	monsters en andere wezens		
+lizard king/king	lizardfolk	hagedissenkoning/koningin		monsters and other creatures	monsters en andere wezens		
+lycantropes		lycantropen		monsters and other creatures	monsters en andere wezens		
+werebear	lycantropes	weerbeer		monsters and other creatures	monsters en andere wezens		
+wereboar	lycantropes	weerzwijn		monsters and other creatures	monsters en andere wezens		
+wererat	lycantropes	weerrat		monsters and other creatures	monsters en andere wezens		
+weretiger	lycantropes	weertijger		monsters and other creatures	monsters en andere wezens		
+werewolf	lycantropes	weerwolf		monsters and other creatures	monsters en andere wezens		
+magmin		magmin	Barlemanje	monsters and other creatures	monsters en andere wezens		De barlemanje is een Nederlands vuurmannetje.
+manticore		manticore		monsters and other creatures	monsters en andere wezens		
+medusa		medusa		monsters and other creatures	monsters en andere wezens		
+mephits		mefieten		monsters and other creatures	monsters en andere wezens		
+dust mephit	mephits	stofmefiet		monsters and other creatures	monsters en andere wezens		
+ice mephit	mephits	ijsmefiet		monsters and other creatures	monsters en andere wezens		
+magma mephit	mephits	magmameiet		monsters and other creatures	monsters en andere wezens		
+mud mephit	mephits	moddermefiet		monsters and other creatures	monsters en andere wezens		
+smoke mephit	mephits	rookmefiet		monsters and other creatures	monsters en andere wezens		
+steam mephit	mephits	stoommefiet		monsters and other creatures	monsters en andere wezens		
+merfolk		meervolk		monsters and other creatures	monsters en andere wezens		
+merrow		merro		monsters and other creatures	monsters en andere wezens		
+mimic		mimiek		monsters and other creatures	monsters en andere wezens		
+mind flayer		zielenveller		monsters and other creatures	monsters en andere wezens		
+minotaur		minotauros		monsters and other creatures	monsters en andere wezens		
+modrons		modronen		monsters and other creatures	monsters en andere wezens		
+monodrone	modrons	monodroon		monsters and other creatures	monsters en andere wezens		
+duodrone	modrons	duodroon		monsters and other creatures	monsters en andere wezens		
+tridrone	modrons	tridroon		monsters and other creatures	monsters en andere wezens		
+quadrone	modrons	quadroon		monsters and other creatures	monsters en andere wezens		
+pentadrone	modrons	pentadroon		monsters and other creatures	monsters en andere wezens		
+mummies		mummies		monsters and other creatures	monsters en andere wezens		
+myconids		myconiden		monsters and other creatures	monsters en andere wezens		
+myconid sprout	myconids	myconidescheut		monsters and other creatures	monsters en andere wezens		
+quaggoth spore servant	myconids	quaggoth sporendienaar		monsters and other creatures	monsters en andere wezens		
+myconid adult	myconids	myconide volwassene		monsters and other creatures	monsters en andere wezens		
+myconid sovereign	myconids	myconide vorst		monsters and other creatures	monsters en andere wezens		
+nagas		naga’s		monsters and other creatures	monsters en andere wezens		
+bone naga	nagas	bottennaga		monsters and other creatures	monsters en andere wezens		
+spirit naga	nagas	geestennaga		monsters and other creatures	monsters en andere wezens		
+guardian naga	nagas	beschermernaga		monsters and other creatures	monsters en andere wezens		
+nightmare		nachtmerrie		monsters and other creatures	monsters en andere wezens		
+nothic		nothiek		monsters and other creatures	monsters en andere wezens		
 ogres		ogers		monsters and other creatures	monsters en andere wezens		
 ogre	ogres	ogers		monsters and other creatures	monsters en andere wezens		
-Half-Ogre	ogres	Halfoger		monsters and other creatures	monsters en andere wezens		
-Oni		Oni		monsters and other creatures	monsters en andere wezens		
-oozes		Slijk		monsters and other creatures	monsters en andere wezens		
-Black Pudding	oozes	Zwarte Pudding		monsters and other creatures	monsters en andere wezens		
-Gelatinous Cube	oozes	Geleikubus		monsters and other creatures	monsters en andere wezens		
-Gray Ooze	oozes	Grijs Slijk		monsters and other creatures	monsters en andere wezens		
-Ochre Jelly	oozes	Okere Gelei		monsters and other creatures	monsters en andere wezens		
-orcs		Orken		monsters and other creatures	monsters en andere wezens		
-Orc	orcs	Ork		monsters and other creatures	monsters en andere wezens		
-Ork War Chief	orcs	Ork Krijgshoofd		monsters and other creatures	monsters en andere wezens		
-Orc Eye of Gruumsh	orcs	Ork Oog van Gruumsh		monsters and other creatures	monsters en andere wezens		
-Orog		Orog		monsters and other creatures	monsters en andere wezens		
-Otyugh		Otyugh		monsters and other creatures	monsters en andere wezens		
-Owlbear		Uilbeer		monsters and other creatures	monsters en andere wezens		
-Pegasus		Pegasus		monsters and other creatures	monsters en andere wezens		
-Peryton		Peryton		monsters and other creatures	monsters en andere wezens		
-Piercer		Doorboorder		monsters and other creatures	monsters en andere wezens		
-Pixie		Piskie		monsters and other creatures	monsters en andere wezens		
-Pseudodragon		Pseudodraak		monsters and other creatures	monsters en andere wezens		
-Purple Worm		Paarse Worm		monsters and other creatures	monsters en andere wezens		
-Quaggoth		Quaggoth		monsters and other creatures	monsters en andere wezens		
-Rakshasa		Rakshasa		monsters and other creatures	monsters en andere wezens		
-Remorhaz		Remorhaz		monsters and other creatures	monsters en andere wezens	reːˈmoːrhɑs	
-Revenant		Wederkeerder		monsters and other creatures	monsters en andere wezens		
-Roc		Roc	Rok, Roekh	monsters and other creatures	monsters en andere wezens		Er zijn meerdere vertalingen voor dit wezen uit 1001 Nacht.
-Roper		Snoerder		monsters and other creatures	monsters en andere wezens		
-Rust Monster		Roestmonster		monsters and other creatures	monsters en andere wezens		
-sahuagin		Sahuagin		monsters and other creatures	monsters en andere wezens		
-Sahuagin Priestess	sahuagin	Sahuagin Priesteres		monsters and other creatures	monsters en andere wezens		
-Sahuagin Baron	sahuagin	Sahuagin Baron		monsters and other creatures	monsters en andere wezens		
-salamanders		Salamanders		monsters and other creatures	monsters en andere wezens		
-Fire Snake	salamanders	Vuurslang		monsters and other creatures	monsters en andere wezens		
-Salamander	salamanders	Salamander		monsters and other creatures	monsters en andere wezens		
-Satyr		Satyr		monsters and other creatures	monsters en andere wezens		
-Scarecrow		Vogelverschrikker		monsters and other creatures	monsters en andere wezens		
-Shadow		Schaduw		monsters and other creatures	monsters en andere wezens		
-Shambling mound		Schuifelende berg		monsters and other creatures	monsters en andere wezens		
-Shield Guardian		Schildbewaker		monsters and other creatures	monsters en andere wezens		
-skeletons		Geraamtes		monsters and other creatures	monsters en andere wezens		
-Skeleton	skeletons	Geraamte		monsters and other creatures	monsters en andere wezens		
-Minotaur Skeleton	skeletons	Minotaurusgeraamte		monsters and other creatures	monsters en andere wezens		
-Warhorse Skeleton	skeletons	Strijdpaardgeraamte		monsters and other creatures	monsters en andere wezens		
-slaadi		Slaadi		monsters and other creatures	monsters en andere wezens		
-Red Slaad	slaadi	Rode Slaad		monsters and other creatures	monsters en andere wezens		
-Blue Slaad	slaadi	Blauwe Slaad		monsters and other creatures	monsters en andere wezens		
-Green Slaad	slaadi	Groene Slaad		monsters and other creatures	monsters en andere wezens		
-Gray Slaad	slaadi	Grijze Slaad		monsters and other creatures	monsters en andere wezens		
-Death Slaad	slaadi	Doodsslaad		monsters and other creatures	monsters en andere wezens		
-Slaad Tadpole	slaadi	Slaadvisje		monsters and other creatures	monsters en andere wezens		
-Specter		Specter		monsters and other creatures	monsters en andere wezens		
-sphinxes		Sphinxen		monsters and other creatures	monsters en andere wezens		
-Androsphynx	sphinxes	Androsphinx		monsters and other creatures	monsters en andere wezens		
-Gynosphynx	sphinxes	Gynosphinx		monsters and other creatures	monsters en andere wezens		
-Sprite		feetje		monsters and other creatures	monsters en andere wezens		
-Stirge		Sturge		monsters and other creatures	monsters en andere wezens		
-Succubus/Incubus		Succubus/Incubus		monsters and other creatures	monsters en andere wezens		
-Tarrasque		Tarrasque		monsters and other creatures	monsters en andere wezens		
-Thri-kreen		Tri-keen		monsters and other creatures	monsters en andere wezens		
-Treant		Booment		monsters and other creatures	monsters en andere wezens		Treant is een variatie op de term ent uit Lord of the Rings, een oud Angelsaksisch woord voor reus. De variatie werd gemaakt om copyright te vermijden.
-Troglodyte		Troglodiet		monsters and other creatures	monsters en andere wezens		
-Troll		Trol		monsters and other creatures	monsters en andere wezens		
-Umber Hulk		Omberkolos		monsters and other creatures	monsters en andere wezens		
-Unicorn		Eenhoorn		monsters and other creatures	monsters en andere wezens		
-vampires		Vampiers		monsters and other creatures	monsters en andere wezens		
-Vampire	vampires	Vampier		monsters and other creatures	monsters en andere wezens		
-Vampire Spawn	vampires	Vampiergebroed		monsters and other creatures	monsters en andere wezens		
-Water Weird		Waterwijl	waterlot, waterwilt	monsters and other creatures	monsters en andere wezens		Ik neem aan dat weird hier verwijst naar het Angelsaksische begrip van het lot. Wijl en wilt zijn beide Middelnederlandse woorden waarvan lot één van de betekenissen is.
-Wight		Wichtel		monsters and other creatures	monsters en andere wezens		
-Will-o’-wisp		Dwaallichtjes		monsters and other creatures	monsters en andere wezens		
-Wraith		Schim		monsters and other creatures	monsters en andere wezens		
-Wyvern		Wyverne		monsters and other creatures	monsters en andere wezens		
-Xorn		Zorn		monsters and other creatures	monsters en andere wezens		
-Yeti		Yeti		monsters and other creatures	monsters en andere wezens		
-yuan-ti		Yuan-ti		monsters and other creatures	monsters en andere wezens		
-Yuan-ti Abomination	yuan-ti	Yuan-ti Verschrikking		monsters and other creatures	monsters en andere wezens		
-Yuan-ti Malison	yuan-ti	Yuan-ti Vervloeking		monsters and other creatures	monsters en andere wezens		
-Yuan-ti Pureblood	yuan-ti	Yuan-ti Volbloed		monsters and other creatures	monsters en andere wezens		
-yugoloths		Yugoloth		monsters and other creatures	monsters en andere wezens		De naam van deze D&D-wezens is veranderd (samen met andere naamswijzigingen) van daemon naar yugoloth om beschuldigingen van satanisme te omzeilen. Voor zover ik weet is het dus bewust een naam zonder oorsprong of context.
-Arcanaloth	yugoloths	Arcanaloth		monsters and other creatures	monsters en andere wezens		
-Mezzoloth	yugoloths	Mezzoloth		monsters and other creatures	monsters en andere wezens		
-Nycaloth	yugoloths	Nycaloth		monsters and other creatures	monsters en andere wezens		
-Ultroloth	yugoloths	Ultroloth		monsters and other creatures	monsters en andere wezens		
-zombies		Zombies		monsters and other creatures	monsters en andere wezens		
-Zombie	zombies	Zombie		monsters and other creatures	monsters en andere wezens		
-Ogre Zombie	zombies	Ogerzomie		monsters and other creatures	monsters en andere wezens		
-Beholder Zombie	zombies	Ontwaarderzombie		monsters and other creatures	monsters en andere wezens		
-Ape		Aap		monsters and other creatures	monsters en andere wezens		
-Awakend Shrub		Ontwaakte struik		monsters and other creatures	monsters en andere wezens		
-Awakened Tree		Ontwaakte boom		monsters and other creatures	monsters en andere wezens		
-Axe Beak		Bijlbek		monsters and other creatures	monsters en andere wezens		
-Baboon		Baviaan		monsters and other creatures	monsters en andere wezens		
-Badger		Das		monsters and other creatures	monsters en andere wezens		
-Bat		Vleermuis		monsters and other creatures	monsters en andere wezens		
-Black Bear		Zwarte beer		monsters and other creatures	monsters en andere wezens		
-Blink Dog		Flikkerende hond		monsters and other creatures	monsters en andere wezens		
-Blood Hawk		Bloedhavik		monsters and other creatures	monsters en andere wezens		
-Boar		Everzwijn		monsters and other creatures	monsters en andere wezens		
-Brown Bear		Bruine beer		monsters and other creatures	monsters en andere wezens		
-Camel		Kameel		monsters and other creatures	monsters en andere wezens		
-Cat		Kat		monsters and other creatures	monsters en andere wezens		
-Constrictor Snake		Wurgslang		monsters and other creatures	monsters en andere wezens		
-Crab		Krab		monsters and other creatures	monsters en andere wezens		
-Crocodile		Krokodil		monsters and other creatures	monsters en andere wezens		
-Death Dog		Doodshond		monsters and other creatures	monsters en andere wezens		
-Deer		Rendier		monsters and other creatures	monsters en andere wezens		
-Dire Wolf		Grimwolf		monsters and other creatures	monsters en andere wezens		
-Draft Horse		Trekpaard		monsters and other creatures	monsters en andere wezens		
-Eagle		Adelaar		monsters and other creatures	monsters en andere wezens		
-Elephant		Olifant		monsters and other creatures	monsters en andere wezens		
-Elk		Eland		monsters and other creatures	monsters en andere wezens		
-Flying Snake		Vliegende slang		monsters and other creatures	monsters en andere wezens		
-Frog		Kikker		monsters and other creatures	monsters en andere wezens		
-Giant Ape		Reuzenaap		monsters and other creatures	monsters en andere wezens		
-Giant Badger		Reuzendas		monsters and other creatures	monsters en andere wezens		
-Giant Bat		Reuzenvleermuis		monsters and other creatures	monsters en andere wezens		
-Giant Boar		Reuzenzwijn		monsters and other creatures	monsters en andere wezens		
-Giant Centipede		Reuzenduizendpoot		monsters and other creatures	monsters en andere wezens		
-Giant Constrictor Snake		Reuzenwurgslang		monsters and other creatures	monsters en andere wezens		
-Giant Crab		Reuzenkrab		monsters and other creatures	monsters en andere wezens		
-Giant Crocodile		Reuzenkrokodil		monsters and other creatures	monsters en andere wezens		
-Giant Eagle		Reuzenadelaar		monsters and other creatures	monsters en andere wezens		
-Giant Elk		Reuzeneland		monsters and other creatures	monsters en andere wezens		
-Giant Fire Beetle		Reuzenvuurkever		monsters and other creatures	monsters en andere wezens		
-Giant Frog		Reuzenkikker		monsters and other creatures	monsters en andere wezens		
-Giant Goat		Reuzengeit		monsters and other creatures	monsters en andere wezens		
-Giant Hyena		Reuzenhyena		monsters and other creatures	monsters en andere wezens		
-Giant Lizard		Reuzenhagedis		monsters and other creatures	monsters en andere wezens		
-Giant Octopus		Reuzenoctopus		monsters and other creatures	monsters en andere wezens		
-Giant Owl		Reuzenuil		monsters and other creatures	monsters en andere wezens		
-Giant Poisonous Snake		Giftige reuzenslang		monsters and other creatures	monsters en andere wezens		
-Giant Rat		Reuzenrat		monsters and other creatures	monsters en andere wezens		
-Giant Scorpion		Reuzenschorpioen		monsters and other creatures	monsters en andere wezens		
-Giant Sea Horse		Reuzenzeepaard		monsters and other creatures	monsters en andere wezens		
-Giant Shark		Reuzenhaai		monsters and other creatures	monsters en andere wezens		
-Giant Spider		Reuzenspin		monsters and other creatures	monsters en andere wezens		
-Giant Toad		Reuzenpad		monsters and other creatures	monsters en andere wezens		
-Giant Vulture		Reuzengier		monsters and other creatures	monsters en andere wezens		
-Giant Wasp		Reuzenwesp		monsters and other creatures	monsters en andere wezens		
-Giant Weasel		Reuzenwezel		monsters and other creatures	monsters en andere wezens		
-Giant Wolf Spider		Reuzenwolfspin		monsters and other creatures	monsters en andere wezens		
-Goat		Geit		monsters and other creatures	monsters en andere wezens		
-Hawk		Havik		monsters and other creatures	monsters en andere wezens		
-Hunter Shark		Jachthaai		monsters and other creatures	monsters en andere wezens		
-Hyena		Hyena		monsters and other creatures	monsters en andere wezens		
-Jackal		Jakhals		monsters and other creatures	monsters en andere wezens		
-Killer Whale		Orka		monsters and other creatures	monsters en andere wezens		
-Lion		Leeuw		monsters and other creatures	monsters en andere wezens		
-Lizard		Hagedis		monsters and other creatures	monsters en andere wezens		
-Mammoth		Mammoet		monsters and other creatures	monsters en andere wezens		
-Mastiff		Mastiff		monsters and other creatures	monsters en andere wezens		
-Mule		Muilezel/Muildier		monsters and other creatures	monsters en andere wezens		
-Octopus		Octopus		monsters and other creatures	monsters en andere wezens		
-Owl		Uil		monsters and other creatures	monsters en andere wezens		
-Panther		Panter		monsters and other creatures	monsters en andere wezens		
-Phase Spider		Fasenspin		monsters and other creatures	monsters en andere wezens		
-Poisonous Snake		Giftige Slang		monsters and other creatures	monsters en andere wezens		
-Polar Bear		IJsbeer		monsters and other creatures	monsters en andere wezens		
-Pony		Pony		monsters and other creatures	monsters en andere wezens		
-Quipper		Kwipper		monsters and other creatures	monsters en andere wezens		
-Rat		Rat		monsters and other creatures	monsters en andere wezens		
-Raven		Raaf		monsters and other creatures	monsters en andere wezens		
-Reef Shark		Rifhaai		monsters and other creatures	monsters en andere wezens		
-Rhinoceros		Neushoorn		monsters and other creatures	monsters en andere wezens		
-Riding Horse		Rijpaard		monsters and other creatures	monsters en andere wezens		
-Saber-Toothed Tiger		Sabeltandtijger		monsters and other creatures	monsters en andere wezens		
-Scorpion		Schorpioen		monsters and other creatures	monsters en andere wezens		
-Sea Horse		Zeepaardje		monsters and other creatures	monsters en andere wezens		
-Spider		Spin		monsters and other creatures	monsters en andere wezens		
-Swarm of Bats		Vleermuizenzwerm		monsters and other creatures	monsters en andere wezens		
-Swarm of Insects		Insectenzwerm		monsters and other creatures	monsters en andere wezens		
-Swarm of Poisonous Snakes		Zwerm van giftige slangen		monsters and other creatures	monsters en andere wezens		
-Swarm of Quippers		Kwipperzwerm		monsters and other creatures	monsters en andere wezens		
-Swarm of Rats		Rattenzwerm		monsters and other creatures	monsters en andere wezens		
-Swarm of Ravens		Ravenzwerm		monsters and other creatures	monsters en andere wezens		
-Tiger		Tijger		monsters and other creatures	monsters en andere wezens		
-Vulture		Aasgier		monsters and other creatures	monsters en andere wezens		
-Warhorse		Strijdpaard		monsters and other creatures	monsters en andere wezens		
-Weasel		Wezel		monsters and other creatures	monsters en andere wezens		
-Winter Wolf		Winterwolf		monsters and other creatures	monsters en andere wezens		
-Wolf		Wolf		monsters and other creatures	monsters en andere wezens		
-Worg		Worg		monsters and other creatures	monsters en andere wezens		
-Acolyte		Ingewijde		monsters and other creatures	monsters en andere wezens		
-Archmage		Aartsmagiër		monsters and other creatures	monsters en andere wezens		
-Assassin		Sluipmoordenaar		monsters and other creatures	monsters en andere wezens		
-Bandit		Bandiet		monsters and other creatures	monsters en andere wezens		
-Bandit Captain		Bandietenkapitein		monsters and other creatures	monsters en andere wezens		
-Berserker		Berserker		monsters and other creatures	monsters en andere wezens		
-Commoner		Burger		monsters and other creatures	monsters en andere wezens		
-Cultist		Sektelid		monsters and other creatures	monsters en andere wezens		
-Cult Fanatic		Sekte-aanhanger		monsters and other creatures	monsters en andere wezens		
-Druid		Druïde		monsters and other creatures	monsters en andere wezens		
-Gladiator		Gladiator		monsters and other creatures	monsters en andere wezens		
-Guard		Bewaker		monsters and other creatures	monsters en andere wezens		
-Knight		Ridder		monsters and other creatures	monsters en andere wezens		
-Mage		Magiër		monsters and other creatures	monsters en andere wezens		
-Noble		Edele		monsters and other creatures	monsters en andere wezens		
-Priest		Priester		monsters and other creatures	monsters en andere wezens		
-Scout		Verkenner		monsters and other creatures	monsters en andere wezens		
-Spy		Spion		monsters and other creatures	monsters en andere wezens		
-Thug		Schurk		monsters and other creatures	monsters en andere wezens		
-Tribal Warrior		Stamkrijger		monsters and other creatures	monsters en andere wezens		
-Veteran		Veteraan		monsters and other creatures	monsters en andere wezens		
+half-ogre	ogres	halfoger		monsters and other creatures	monsters en andere wezens		
+oni		oni		monsters and other creatures	monsters en andere wezens		
+oozes		slijk		monsters and other creatures	monsters en andere wezens		
+black pudding	oozes	zwarte pudding		monsters and other creatures	monsters en andere wezens		
+gelatinous cube	oozes	geleikubus		monsters and other creatures	monsters en andere wezens		
+gray ooze	oozes	grijs slijk		monsters and other creatures	monsters en andere wezens		
+ochre jelly	oozes	okere gelei		monsters and other creatures	monsters en andere wezens		
+orcs		orken		monsters and other creatures	monsters en andere wezens		
+orc	orcs	ork		monsters and other creatures	monsters en andere wezens		
+ork war chief	orcs	ork krijgshoofd		monsters and other creatures	monsters en andere wezens		
+orc eye of Gruumsh	orcs	ork oog van gruumsh		monsters and other creatures	monsters en andere wezens		
+orog		orog		monsters and other creatures	monsters en andere wezens		
+otyugh		otyugh		monsters and other creatures	monsters en andere wezens		
+owlbear		uilbeer		monsters and other creatures	monsters en andere wezens		
+pegasus		pegasus		monsters and other creatures	monsters en andere wezens		
+peryton		peryton		monsters and other creatures	monsters en andere wezens		
+piercer		doorboorder		monsters and other creatures	monsters en andere wezens		
+pixie		piskie		monsters and other creatures	monsters en andere wezens		
+pseudodragon		pseudodraak		monsters and other creatures	monsters en andere wezens		
+purple worm		paarse worm		monsters and other creatures	monsters en andere wezens		
+quaggoth		quaggoth		monsters and other creatures	monsters en andere wezens		
+rakshasa		rakshasa		monsters and other creatures	monsters en andere wezens		
+remorhaz		remorhaz		monsters and other creatures	monsters en andere wezens	reːˈmoːrhɑs	
+revenant		wederkeerder		monsters and other creatures	monsters en andere wezens		
+roc		roc	Rok, Roekh	monsters and other creatures	monsters en andere wezens		Er zijn meerdere vertalingen voor dit wezen uit 1001 Nacht.
+roper		snoerder		monsters and other creatures	monsters en andere wezens		
+rust monster		roestmonster		monsters and other creatures	monsters en andere wezens		
+sahuagin		sahuagin		monsters and other creatures	monsters en andere wezens		
+sahuagin priestess	sahuagin	sahuagin priesteres		monsters and other creatures	monsters en andere wezens		
+sahuagin baron	sahuagin	sahuagin baron		monsters and other creatures	monsters en andere wezens		
+salamanders		salamanders		monsters and other creatures	monsters en andere wezens		
+fire snake	salamanders	vuurslang		monsters and other creatures	monsters en andere wezens		
+salamander	salamanders	salamander		monsters and other creatures	monsters en andere wezens		
+satyr		satyr		monsters and other creatures	monsters en andere wezens		
+scarecrow		vogelverschrikker		monsters and other creatures	monsters en andere wezens		
+shadow		schaduw		monsters and other creatures	monsters en andere wezens		
+shambling mound		schuifelende berg		monsters and other creatures	monsters en andere wezens		
+shield guardian		schildbewaker		monsters and other creatures	monsters en andere wezens		
+skeletons		geraamtes		monsters and other creatures	monsters en andere wezens		
+skeleton	skeletons	geraamte		monsters and other creatures	monsters en andere wezens		
+minotaur skeleton	skeletons	minotaurusgeraamte		monsters and other creatures	monsters en andere wezens		
+warhorse skeleton	skeletons	strijdpaardgeraamte		monsters and other creatures	monsters en andere wezens		
+slaadi		slaadi		monsters and other creatures	monsters en andere wezens		
+red slaad	slaadi	rode slaad		monsters and other creatures	monsters en andere wezens		
+blue slaad	slaadi	blauwe slaad		monsters and other creatures	monsters en andere wezens		
+green slaad	slaadi	groene slaad		monsters and other creatures	monsters en andere wezens		
+gray slaad	slaadi	grijze slaad		monsters and other creatures	monsters en andere wezens		
+death slaad	slaadi	doodsslaad		monsters and other creatures	monsters en andere wezens		
+slaad tadpole	slaadi	slaadvisje		monsters and other creatures	monsters en andere wezens		
+specter		specter		monsters and other creatures	monsters en andere wezens		
+sphinxes		sphinxen		monsters and other creatures	monsters en andere wezens		
+androsphynx	sphinxes	androsphinx		monsters and other creatures	monsters en andere wezens		
+gynosphynx	sphinxes	gynosphinx		monsters and other creatures	monsters en andere wezens		
+sprite		feetje		monsters and other creatures	monsters en andere wezens		
+stirge		sturge		monsters and other creatures	monsters en andere wezens		
+succubus/incubus		succubus/incubus		monsters and other creatures	monsters en andere wezens		
+tarrasque		tarrasque		monsters and other creatures	monsters en andere wezens		
+thri-kreen		tri-keen		monsters and other creatures	monsters en andere wezens		
+treant		booment		monsters and other creatures	monsters en andere wezens		Treant is een variatie op de term ent uit Lord of the Rings, een oud Angelsaksisch woord voor reus. De variatie werd gemaakt om copyright te vermijden.
+troglodyte		troglodiet		monsters and other creatures	monsters en andere wezens		
+troll		trol		monsters and other creatures	monsters en andere wezens		
+umber hulk		omberkolos		monsters and other creatures	monsters en andere wezens		
+unicorn		eenhoorn		monsters and other creatures	monsters en andere wezens		
+vampires		vampiers		monsters and other creatures	monsters en andere wezens		
+vampire	vampires	vampier		monsters and other creatures	monsters en andere wezens		
+vampire spawn	vampires	vampiergebroed		monsters and other creatures	monsters en andere wezens		
+water weird		waterwijl	waterlot, waterwilt	monsters and other creatures	monsters en andere wezens		Ik neem aan dat weird hier verwijst naar het Angelsaksische begrip van het lot. Wijl en wilt zijn beide Middelnederlandse woorden waarvan lot één van de betekenissen is.
+wight		wichtel		monsters and other creatures	monsters en andere wezens		
+will-o’-wisp		dwaallichtjes		monsters and other creatures	monsters en andere wezens		
+wraith		schim		monsters and other creatures	monsters en andere wezens		
+wyvern		wyverne		monsters and other creatures	monsters en andere wezens		
+xorn		zorn		monsters and other creatures	monsters en andere wezens		
+yeti		yeti		monsters and other creatures	monsters en andere wezens		
+yuan-ti		yuan-ti		monsters and other creatures	monsters en andere wezens		
+yuan-ti abomination	yuan-ti	yuan-ti verschrikking		monsters and other creatures	monsters en andere wezens		
+yuan-ti malison	yuan-ti	yuan-ti vervloeking		monsters and other creatures	monsters en andere wezens		
+yuan-ti pureblood	yuan-ti	yuan-ti volbloed		monsters and other creatures	monsters en andere wezens		
+yugoloths		yugoloth		monsters and other creatures	monsters en andere wezens		De naam van deze D&D-wezens is veranderd (samen met andere naamswijzigingen) van daemon naar yugoloth om beschuldigingen van satanisme te omzeilen. Voor zover ik weet is het dus bewust een naam zonder oorsprong of context.
+arcanaloth	yugoloths	arcanaloth		monsters and other creatures	monsters en andere wezens		
+mezzoloth	yugoloths	mezzoloth		monsters and other creatures	monsters en andere wezens		
+nycaloth	yugoloths	nycaloth		monsters and other creatures	monsters en andere wezens		
+ultroloth	yugoloths	ultroloth		monsters and other creatures	monsters en andere wezens		
+zombies		zombies		monsters and other creatures	monsters en andere wezens		
+zombie	zombies	zombie		monsters and other creatures	monsters en andere wezens		
+ogre zombie	zombies	ogerzomie		monsters and other creatures	monsters en andere wezens		
+beholder zombie	zombies	ontwaarderzombie		monsters and other creatures	monsters en andere wezens		
+ape		aap		monsters and other creatures	monsters en andere wezens		
+awakend shrub		ontwaakte struik		monsters and other creatures	monsters en andere wezens		
+awakened tree		ontwaakte boom		monsters and other creatures	monsters en andere wezens		
+axe beak		bijlbek		monsters and other creatures	monsters en andere wezens		
+baboon		baviaan		monsters and other creatures	monsters en andere wezens		
+badger		das		monsters and other creatures	monsters en andere wezens		
+bat		vleermuis		monsters and other creatures	monsters en andere wezens		
+black bear		zwarte beer		monsters and other creatures	monsters en andere wezens		
+blink dog		flikkerende hond		monsters and other creatures	monsters en andere wezens		
+blood hawk		bloedhavik		monsters and other creatures	monsters en andere wezens		
+boar		everzwijn		monsters and other creatures	monsters en andere wezens		
+brown bear		bruine beer		monsters and other creatures	monsters en andere wezens		
+camel		kameel		monsters and other creatures	monsters en andere wezens		
+cat		kat		monsters and other creatures	monsters en andere wezens		
+constrictor snake		wurgslang		monsters and other creatures	monsters en andere wezens		
+crab		krab		monsters and other creatures	monsters en andere wezens		
+crocodile		krokodil		monsters and other creatures	monsters en andere wezens		
+death dog		doodshond		monsters and other creatures	monsters en andere wezens		
+deer		rendier		monsters and other creatures	monsters en andere wezens		
+dire wolf		grimwolf		monsters and other creatures	monsters en andere wezens		
+draft horse		trekpaard		monsters and other creatures	monsters en andere wezens		
+eagle		adelaar		monsters and other creatures	monsters en andere wezens		
+elephant		olifant		monsters and other creatures	monsters en andere wezens		
+elk		eland		monsters and other creatures	monsters en andere wezens		
+flying snake		vliegende slang		monsters and other creatures	monsters en andere wezens		
+frog		kikker		monsters and other creatures	monsters en andere wezens		
+giant ape		reuzenaap		monsters and other creatures	monsters en andere wezens		
+giant badger		reuzendas		monsters and other creatures	monsters en andere wezens		
+giant bat		reuzenvleermuis		monsters and other creatures	monsters en andere wezens		
+giant boar		reuzenzwijn		monsters and other creatures	monsters en andere wezens		
+giant centipede		reuzenduizendpoot		monsters and other creatures	monsters en andere wezens		
+giant constrictor snake		reuzenwurgslang		monsters and other creatures	monsters en andere wezens		
+giant crab		reuzenkrab		monsters and other creatures	monsters en andere wezens		
+giant crocodile		reuzenkrokodil		monsters and other creatures	monsters en andere wezens		
+giant eagle		reuzenadelaar		monsters and other creatures	monsters en andere wezens		
+giant elk		reuzeneland		monsters and other creatures	monsters en andere wezens		
+giant fire beetle		reuzenvuurkever		monsters and other creatures	monsters en andere wezens		
+giant frog		reuzenkikker		monsters and other creatures	monsters en andere wezens		
+giant goat		reuzengeit		monsters and other creatures	monsters en andere wezens		
+giant hyena		reuzenhyena		monsters and other creatures	monsters en andere wezens		
+giant lizard		reuzenhagedis		monsters and other creatures	monsters en andere wezens		
+giant octopus		reuzenoctopus		monsters and other creatures	monsters en andere wezens		
+giant owl		reuzenuil		monsters and other creatures	monsters en andere wezens		
+giant poisonous snake		giftige reuzenslang		monsters and other creatures	monsters en andere wezens		
+giant rat		reuzenrat		monsters and other creatures	monsters en andere wezens		
+giant scorpion		reuzenschorpioen		monsters and other creatures	monsters en andere wezens		
+giant sea horse		reuzenzeepaard		monsters and other creatures	monsters en andere wezens		
+giant shark		reuzenhaai		monsters and other creatures	monsters en andere wezens		
+giant spider		reuzenspin		monsters and other creatures	monsters en andere wezens		
+giant toad		reuzenpad		monsters and other creatures	monsters en andere wezens		
+giant vulture		reuzengier		monsters and other creatures	monsters en andere wezens		
+giant wasp		reuzenwesp		monsters and other creatures	monsters en andere wezens		
+giant weasel		reuzenwezel		monsters and other creatures	monsters en andere wezens		
+giant wolf spider		reuzenwolfspin		monsters and other creatures	monsters en andere wezens		
+goat		geit		monsters and other creatures	monsters en andere wezens		
+hawk		havik		monsters and other creatures	monsters en andere wezens		
+hunter shark		jachthaai		monsters and other creatures	monsters en andere wezens		
+hyena		hyena		monsters and other creatures	monsters en andere wezens		
+jackal		jakhals		monsters and other creatures	monsters en andere wezens		
+killer whale		orka		monsters and other creatures	monsters en andere wezens		
+lion		leeuw		monsters and other creatures	monsters en andere wezens		
+lizard		hagedis		monsters and other creatures	monsters en andere wezens		
+mammoth		mammoet		monsters and other creatures	monsters en andere wezens		
+mastiff		mastiff		monsters and other creatures	monsters en andere wezens		
+mule		muilezel/muildier		monsters and other creatures	monsters en andere wezens		
+octopus		octopus		monsters and other creatures	monsters en andere wezens		
+owl		uil		monsters and other creatures	monsters en andere wezens		
+panther		panter		monsters and other creatures	monsters en andere wezens		
+phase spider		fasenspin		monsters and other creatures	monsters en andere wezens		
+poisonous snake		giftige slang		monsters and other creatures	monsters en andere wezens		
+polar bear		ijsbeer		monsters and other creatures	monsters en andere wezens		
+pony		pony		monsters and other creatures	monsters en andere wezens		
+quipper		kwipper		monsters and other creatures	monsters en andere wezens		
+rat		rat		monsters and other creatures	monsters en andere wezens		
+raven		raaf		monsters and other creatures	monsters en andere wezens		
+reef shark		rifhaai		monsters and other creatures	monsters en andere wezens		
+rhinoceros		neushoorn		monsters and other creatures	monsters en andere wezens		
+riding horse		rijpaard		monsters and other creatures	monsters en andere wezens		
+saber-toothed tiger		sabeltandtijger		monsters and other creatures	monsters en andere wezens		
+scorpion		schorpioen		monsters and other creatures	monsters en andere wezens		
+sea horse		zeepaardje		monsters and other creatures	monsters en andere wezens		
+spider		spin		monsters and other creatures	monsters en andere wezens		
+swarm of bats		vleermuizenzwerm		monsters and other creatures	monsters en andere wezens		
+swarm of insects		insectenzwerm		monsters and other creatures	monsters en andere wezens		
+swarm of poisonous snakes		zwerm van giftige slangen		monsters and other creatures	monsters en andere wezens		
+swarm of quippers		kwipperzwerm		monsters and other creatures	monsters en andere wezens		
+swarm of rats		rattenzwerm		monsters and other creatures	monsters en andere wezens		
+swarm of ravens		ravenzwerm		monsters and other creatures	monsters en andere wezens		
+tiger		tijger		monsters and other creatures	monsters en andere wezens		
+vulture		aasgier		monsters and other creatures	monsters en andere wezens		
+warhorse		strijdpaard		monsters and other creatures	monsters en andere wezens		
+weasel		wezel		monsters and other creatures	monsters en andere wezens		
+winter wolf		winterwolf		monsters and other creatures	monsters en andere wezens		
+wolf		wolf		monsters and other creatures	monsters en andere wezens		
+worg		worg		monsters and other creatures	monsters en andere wezens		
+acolyte		ingewijde		monsters and other creatures	monsters en andere wezens		
+archmage		aartsmagiër		monsters and other creatures	monsters en andere wezens		
+assassin		sluipmoordenaar		monsters and other creatures	monsters en andere wezens		
+bandit		bandiet		monsters and other creatures	monsters en andere wezens		
+bandit captain		bandietenkapitein		monsters and other creatures	monsters en andere wezens		
+berserker		berserker		monsters and other creatures	monsters en andere wezens		
+commoner		burger		monsters and other creatures	monsters en andere wezens		
+cultist		sektelid		monsters and other creatures	monsters en andere wezens		
+cult fanatic		sekte-aanhanger		monsters and other creatures	monsters en andere wezens		
+druid		druïde		monsters and other creatures	monsters en andere wezens		
+gladiator		gladiator		monsters and other creatures	monsters en andere wezens		
+guard		bewaker		monsters and other creatures	monsters en andere wezens		
+knight		ridder		monsters and other creatures	monsters en andere wezens		
+mage		magiër		monsters and other creatures	monsters en andere wezens		
+noble		edele		monsters and other creatures	monsters en andere wezens		
+priest		priester		monsters and other creatures	monsters en andere wezens		
+scout		verkenner		monsters and other creatures	monsters en andere wezens		
+spy		spion		monsters and other creatures	monsters en andere wezens		
+thug		schurk		monsters and other creatures	monsters en andere wezens		
+tribal warrior		stamkrijger		monsters and other creatures	monsters en andere wezens		
+veteran		veteraan		monsters and other creatures	monsters en andere wezens		
